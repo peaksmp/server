@@ -1,0 +1,26 @@
+services:
+  mc:
+    image: 'itzg/minecraft-server'
+    ports:
+      - 25565:25565
+      - 25575:25575
+      - 8080:80
+    environment:
+      EULA: 'TRUE'
+      TYPE: 'FABRIC'
+      MEMORY: '2G'
+      MAX_PLAYERS: '16'
+      VIEW_DISTANCE: '12'
+      MOTD: '\u00A7bPeak'
+      DIFFICULTY: 'hard'
+      ENABLE_RCON: 'true'
+      ENABLE_COMMAND_BLOCK: 'true'
+      USE_AIKAR_FLAGS: 'true'
+      MAX_TICK_TIME: '-1'
+      REMOVE_OLD_MODS: 'true'
+      OVERRIDE_SERVER_PROPERTIES: 'true'
+      MODS: 'https://cdn.modrinth.com//data/P7dR8mSH/versions/0.40.8+1.17/fabric-api-0.40.8+1.17.jar,http://github.com/caffeinemc/lithium-fabric/releases/latest/download/lithium-fabric-mc1.17.1-0.7.4.jar,https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+fabric.73f6d37.jar,https://cdn.modrinth.com/data/VSNURh3q/versions/0/c2me-fabric-mc1.17.1-0.2.0+alpha.5.0-all.jar,https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.4/krypton-0.1.4.jar,https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.17.1-0.3.1/hydrogen-fabric-mc1.17.1-0.3.jar,https://ci.lucko.me/job/spark/241/artifact/spark-fabric/build/libs/spark-fabric.jar,https://cdn.modrinth.com/data/LVN9ygNV/versions/1.1.1/ledger-1.1.1.jar,https://cdn.modrinth.com/data/Ha28R6CL/versions/1.6.4+kotlin.1.5.30/fabric-language-kotlin-1.6.4+kotlin.1.5.30.jar,https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.6.3/BlueMap-1.6.3-fabric-1.17.jar'
+    volumes:
+      - ./minecraft:/data
+    tty: true
+    stdin_open: true

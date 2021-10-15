@@ -1,0 +1,6 @@
+.DS_Store
+minecraft/*
+!minecraft/config
+.fabric
+.fabric-installer
+.mixin.out
