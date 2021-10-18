@@ -1,0 +1,20 @@
+# Fabric API
+https://cdn.modrinth.com//data/P7dR8mSH/versions/0.40.8+1.17/fabric-api-0.40.8+1.17.jar
+# Lithium
+http://github.com/caffeinemc/lithium-fabric/releases/latest/download/lithium-fabric-mc1.17.1-0.7.4.jar
+# Starlight
+https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+fabric.73f6d37.jar
+# C2ME
+https://cdn.modrinth.com/data/VSNURh3q/versions/0/c2me-fabric-mc1.17.1-0.2.0+alpha.5.0-all.jar
+# Krypton
+https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.4/krypton-0.1.4.jar
+# Hydrogen
+https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.17.1-0.3.1/hydrogen-fabric-mc1.17.1-0.3.jar
+# Spark
+https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-fabric/build/libs/spark-fabric.jar
+# Ledger
+https://cdn.modrinth.com/data/LVN9ygNV/versions/1.1.1/ledger-1.1.1.jar
+# Fabric Language Kotlin
+https://cdn.modrinth.com/data/Ha28R6CL/versions/1.6.4+kotlin.1.5.30/fabric-language-kotlin-1.6.4+kotlin.1.5.30.jar
+# BlueMap
+https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.6.3/BlueMap-1.6.3-fabric-1.17.jar

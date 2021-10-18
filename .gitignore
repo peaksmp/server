@@ -1,6 +1,7 @@
 .DS_Store
 minecraft/*
 !minecraft/config
+!minecraft/server-icon.png
 .fabric
 .fabric-installer
 .mixin.out
