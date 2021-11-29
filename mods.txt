@@ -14,3 +14,6 @@ https://cdn.discordapp.com/attachments/914670849204822046/914672058250706994/led
 https://cdn.discordapp.com/attachments/914670849204822046/914676781334806538/fabric-language-kotlin-1.7.0kotlin.1.6.0.jar
 # Anti x-ray
 https://cdn.discordapp.com/attachments/914670849204822046/914772013527228466/anti-xray-mc1.18-pre6-1.1.1.jar
+# Spark
+https://ci.lucko.me/job/spark/246/artifact/spark-fabric/build/libs/spark-fabric.jar
+
