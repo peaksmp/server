@@ -5,3 +5,6 @@ minecraft/*
 .fabric
 .fabric-installer
 .mixin.out
+.env.secrets
+nginx/ssl
+rclone.config

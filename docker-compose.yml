@@ -1,27 +1,68 @@
 services:
-  mc:
+  minecraft:
     image: 'itzg/minecraft-server'
     ports:
       - 25565:25565
       - 25575:25575
-      - 8100:80
+      - 8100:8100
     environment:
-      EULA: 'TRUE'
+      EULA: true
       TYPE: 'FABRIC'
-      MEMORY: '2G'
-      MAX_PLAYERS: '16'
-      VIEW_DISTANCE: '12'
+      VERSION: 'snapshot'
+      MEMORY: '8G'
+      MAX_PLAYERS: 64
+      VIEW_DISTANCE: 12
       MOTD: '\u00A7bPeak'
       DIFFICULTY: 'hard'
-      ENABLE_RCON: 'true'
-      ENABLE_COMMAND_BLOCK: 'true'
-      USE_AIKAR_FLAGS: 'true'
-      MAX_TICK_TIME: '-1'
-      REMOVE_OLD_MODS: 'true'
-      OVERRIDE_SERVER_PROPERTIES: 'true'
+      SEED: 993994
+      ENABLE_RCON: true
+      JVM_DD_OPTS: 'file.encoding:UTF-8'
+      JVM_XX_OPTS: '-XX:+UseLargePages -XX:LargePageSizeInBytes=2M -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:-UseBiasedLocking -XX:+DisableExplicitGC'
+      MAX_TICK_TIME: -1
+      ENABLE_AUTOPAUSE: true
+      REMOVE_OLD_MODS: true
+      OVERRIDE_SERVER_PROPERTIES: true
       MODS_FILE: '/extras/mods.txt'
     volumes:
       - ./minecraft:/data
       - ./mods.txt:/extras/mods.txt:ro
+    env_file: .env.secrets
+    # TODO put some thought into this
+    restart: unless-stopped
     tty: true
     stdin_open: true
+#   backup:
+#     image: 'itzg/mc-backup'
+#     environment:
+#         SRC_DIR: '/data'
+#         RCON_HOST: minecraft
+#         RCON_PORT: 25575
+#         RCON_RETRIES: 10
+#         RCON_RETRY_INTERVAL: 60s
+#         BACKUP_METHOD: restic
+#         BACKUP_INTERVAL: 1d
+#         PAUSE_IF_NO_PLAYERS: true
+#         RESTIC_REPOSITORY: rclone:mega:Peak/Backups
+#         PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
+#     volumes:
+#       - ./minecraft:/data:ro
+#       - ./rclone.config:/config/rclone/rclone.conf:ro
+#     # should contain RESTIC_PASSWORD and RCON_PASSWORD
+#     env_file: .env.secrets
+#     depends_on:
+#         - 'minecraft'
+  website:
+    image: 'ghcr.io/peaksmp/website:latest'
+    ports:
+        - 3000:3000
+    init: true
+    tty: true
+    stdin_open: true
+  nginx:
+    image: nginx
+    ports:
+        - 80:80
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/sites/:/etc/nginx/sites/:ro
+      - ./nginx/ssl/:/etc/nginx/ssl/:ro
