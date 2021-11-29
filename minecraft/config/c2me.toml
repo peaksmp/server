@@ -57,7 +57,8 @@ globalExecutorParallelism = "default"
 # Configuration for no-tick view distance
 [noTickViewDistance]
 	# (Default: false) Whether to use compatibility mode to send chunks 
-	# This may fix some mod compatibility issues
+	# This may fix some mod compatibility issues 
+	# INCOMPATIBILITY: Set to true forcefully by: antixray
 	compatibilityMode = "default"
 	# (Default: 6) No-tick view distance updates per tick 
 	# Lower this for a better latency and higher this for a faster loading
