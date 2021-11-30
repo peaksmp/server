@@ -15,7 +15,7 @@ services:
       MOTD: '\u00A7bPeak'
       DIFFICULTY: 'hard'
       SPAWN_PROTECTION: 0
-      SEED: 993994
+      SEED: 'peak'
       ENABLE_RCON: true
       JVM_DD_OPTS: 'file.encoding:UTF-8'
       JVM_XX_OPTS: '-XX:+UseLargePages -XX:LargePageSizeInBytes=2M -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:-UseBiasedLocking -XX:+DisableExplicitGC'
