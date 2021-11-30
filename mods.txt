@@ -9,7 +9,7 @@ https://cdn.discordapp.com/attachments/914670849204822046/915279619878428702/lit
 # Starlight
 https://cdn.discordapp.com/attachments/914670849204822046/914682910248960010/starlight-1.0.0fabric.5e8a60d.jar
 # Ledger
-https://cdn.discordapp.com/attachments/914670849204822046/914672058250706994/ledger-1.1.11.18build.452.jar
+https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.0/ledger-1.2.0.jar
 # Kotlin
 https://cdn.discordapp.com/attachments/914670849204822046/914676781334806538/fabric-language-kotlin-1.7.0kotlin.1.6.0.jar
 # Anti x-ray

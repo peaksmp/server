@@ -2,6 +2,7 @@
 minecraft/*
 !minecraft/config
 !minecraft/server-icon.png
+minecraft/config/spark/activity.json
 .fabric
 .fabric-installer
 .mixin.out
