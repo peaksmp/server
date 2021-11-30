@@ -32,26 +32,25 @@ services:
     restart: unless-stopped
     tty: true
     stdin_open: true
-#   backup:
-#     image: 'itzg/mc-backup'
-#     environment:
-#         SRC_DIR: '/data'
-#         RCON_HOST: minecraft
-#         RCON_PORT: 25575
-#         RCON_RETRIES: 10
-#         RCON_RETRY_INTERVAL: 60s
-#         BACKUP_METHOD: restic
-#         BACKUP_INTERVAL: 1d
-#         PAUSE_IF_NO_PLAYERS: true
-#         RESTIC_REPOSITORY: rclone:mega:Peak/Backups
-#         PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
-#     volumes:
-#       - ./minecraft:/data:ro
-#       - ./rclone.config:/config/rclone/rclone.conf:ro
-#     # should contain RESTIC_PASSWORD and RCON_PASSWORD
-#     env_file: .env.secrets
-#     depends_on:
-#         - 'minecraft'
+  backup:
+    image: 'itzg/mc-backup'
+    environment:
+        SRC_DIR: '/data'
+        RCON_HOST: minecraft
+        RCON_PORT: 25575
+        RCON_RETRIES: 10
+        RCON_RETRY_INTERVAL: 60s
+        BACKUP_METHOD: restic
+        BACKUP_INTERVAL: 1d
+        PAUSE_IF_NO_PLAYERS: true
+        RESTIC_REPOSITORY: rclone:mega:Peak/Backups
+        PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
+    volumes:
+      - ./minecraft:/data:ro
+      - ./rclone.config:/config/rclone/rclone.conf:ro
+    env_file: .env.secrets
+    depends_on:
+        - 'minecraft'
   website:
     image: 'ghcr.io/peaksmp/website:latest'
     ports:
