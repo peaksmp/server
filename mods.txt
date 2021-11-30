@@ -5,7 +5,7 @@ https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.87%201.18-rc3/c2me
 # Bluemap
 https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.7.1/BlueMap-1.7.1-fabric-1.18.jar
 # Lithium
-https://cdn.discordapp.com/attachments/914670849204822046/914949643224383559/lithium-fabric-mc1.18-rc4-0.7.5-SNAPSHOT.jar
+https://cdn.discordapp.com/attachments/914670849204822046/915279619878428702/lithium-fabric-mc1.18-0.7.5-SNAPSHOT.jar
 # Starlight
 https://cdn.discordapp.com/attachments/914670849204822046/914682910248960010/starlight-1.0.0fabric.5e8a60d.jar
 # Ledger
