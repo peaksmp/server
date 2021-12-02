@@ -1,0 +1,38 @@
+{
+  "first_death": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "death": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "first_join": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "join": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "kill_entity": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "kill_player": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "leave": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "custom_commands": []
+}

@@ -3,9 +3,9 @@ https://cdn.modrinth.com/data/P7dR8mSH/versions/0.43.1+1.18/fabric-api-0.43.1+1.
 # C2ME
 https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.87%201.18-rc3/c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87-all.jar
 # Bluemap
-https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.7.1/BlueMap-1.7.1-fabric-1.18.jar
+https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.7.2/BlueMap-1.7.2-fabric-1.18.jar
 # Lithium
-https://cdn.discordapp.com/attachments/914670849204822046/915279619878428702/lithium-fabric-mc1.18-0.7.5-SNAPSHOT.jar
+https://cdn.discordapp.com/attachments/914670849204822046/915385540768047195/lithium-fabric-mc1.18-0.7.6-SNAPSHOT.jar
 # Starlight
 https://cdn.discordapp.com/attachments/914670849204822046/914682910248960010/starlight-1.0.0fabric.5e8a60d.jar
 # Ledger
@@ -13,7 +13,20 @@ https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.0/ledger-1.2.0.jar
 # Kotlin
 https://cdn.discordapp.com/attachments/914670849204822046/914676781334806538/fabric-language-kotlin-1.7.0kotlin.1.6.0.jar
 # Anti x-ray
-https://cdn.discordapp.com/attachments/914670849204822046/914772013527228466/anti-xray-mc1.18-pre6-1.1.1.jar
+https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18-1.1.1/anti-xray-mc1.18-1.1.1.jar
 # Spark
-https://ci.lucko.me/job/spark/246/artifact/spark-fabric/build/libs/spark-fabric.jar
-
+https://cdn.modrinth.com/data/l6YH9Als/versions/1.6.3-fabric/spark-fabric.jar
+# Discord integration
+https://cdn.modrinth.com/data/rbJ7eS5V/versions/2.3.5-fabric-1.18/dcintegration-fabric-2.3.5-1.18.jar
+# Krypton
+https://github.com/astei/krypton/releases/download/v0.1.5/krypton-0.1.5.jar
+# Player Events
+https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
+# /mods command
+https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.5+1.18/mods-command-mc1.18-1.0.5.jar
+# Server Tick
+https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
+# Boat Step Up
+https://cdn.modrinth.com/data/vhnZxUfZ/versions/1.1.0/boat-step-up-1.1.0.jar
+# Touchups
+https://cdn.discordapp.com/attachments/914670849204822046/915862339801186314/touchups-1.0-SNAPSHOT.jar
