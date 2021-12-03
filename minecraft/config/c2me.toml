@@ -16,7 +16,7 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	reduceLockRadius = "default"
 	# (Default: true) Whether to enable this feature
-	enabled = "default"
+	enabled = "true"
 
 # Configuration for async scheduling system
 [asyncScheduling]
