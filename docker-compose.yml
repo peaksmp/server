@@ -19,7 +19,7 @@ services:
       ENABLE_RCON: true
       USE_AIKAR_FLAGS: true
       MAX_TICK_TIME: -1
-      ENABLE_AUTOPAUSE: true
+      ENABLE_AUTOPAUSE: false
       REMOVE_OLD_MODS: true
       OVERRIDE_SERVER_PROPERTIES: true
       MODS_FILE: '/extras/mods.txt'
