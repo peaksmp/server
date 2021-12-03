@@ -73,7 +73,7 @@ https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.5+1.18/mods-command-mc1.18-1
 https://cdn.modrinth.com/data/vhnZxUfZ/versions/1.1.0/boat-step-up-1.1.0.jar
 
 # Touchups
-https://cdn.discordapp.com/attachments/914670849204822046/916171731109027871/touchups-1.0-SNAPSHOT.jar
+https://cdn.discordapp.com/attachments/914670849204822046/916184316290158672/touchups-1.0-SNAPSHOT.jar
 
 # MiniMOTD
 #https://cdn.modrinth.com/data/16vhQOQN/versions/2.0.5+1.18/minimotd-fabric-mc1.18-2.0.5.jar
