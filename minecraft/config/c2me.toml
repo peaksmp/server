@@ -49,7 +49,7 @@ globalExecutorParallelism = "default"
 	# Other values can result in crashes when starting minecraft  
 	# to prevent further damage
 	#
-	chunkStreamVersion = "default"
+	chunkStreamVersion = "1"
 	# (Default: true) Whether to let async chunk request no longer block server thread 
 	# (may cause incompatibility with other mods) 
 	optimizeAsyncChunkRequest = "default"
