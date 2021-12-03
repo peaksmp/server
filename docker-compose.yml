@@ -11,15 +11,13 @@ services:
       VERSION: 'latest'
       MEMORY: '8G'
       MAX_PLAYERS: 64
-      VIEW_DISTANCE: 12
+      VIEW_DISTANCE: 8
       MOTD: '\u00A7bPeak'
       DIFFICULTY: 'hard'
-      ENABLE_WHITELIST: true
       SPAWN_PROTECTION: 0
       SEED: 'peak'
       ENABLE_RCON: true
-      JVM_DD_OPTS: 'file.encoding:UTF-8'
-      JVM_XX_OPTS: '-XX:+UseLargePages -XX:LargePageSizeInBytes=2M -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:-UseBiasedLocking -XX:+DisableExplicitGC'
+      USE_AIKAR_FLAGS: true
       MAX_TICK_TIME: -1
       ENABLE_AUTOPAUSE: true
       REMOVE_OLD_MODS: true
