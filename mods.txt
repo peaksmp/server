@@ -46,7 +46,7 @@ https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.0/ledger-1.2.0.jar
 
 # Anti x-ray
-https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18-1.1.1/anti-xray-mc1.18-1.1.1.jar
+#https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18-1.1.1/anti-xray-mc1.18-1.1.1.jar
 
 # Spark
 https://cdn.modrinth.com/data/l6YH9Als/versions/1.6.3-fabric/spark-fabric.jar
