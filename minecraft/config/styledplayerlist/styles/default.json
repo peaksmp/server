@@ -3,7 +3,7 @@
   "name": "Default",
   "header": [
     "",
-    "<gradient:#4adeff:#ffff1E><bold>Peak</bold></gradient>",
+    "<gradient:#4adeff:#ff1EFF><bold>Peak</bold></gradient>",
     "",
     "<color:#555555><strikethrough>        </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>        </strikethrough></color>",
     ""
