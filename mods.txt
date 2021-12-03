@@ -1,9 +1,9 @@
 
-################
-#                                #
-#  DEPENDENCIES   #
-#                                #
-################
+#################
+#               #
+#  DEPENDENCIES #
+#               #
+#################
 
 # Fabric API
 https://cdn.modrinth.com/data/P7dR8mSH/versions/0.43.1+1.18/fabric-api-0.43.1+1.18.jar
@@ -14,11 +14,11 @@ https://cdn.discordapp.com/attachments/914670849204822046/914676781334806538/fab
 # Player Events
 https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
 
-################
-#                                #
-#  PERFORMANCE   #
-#                                #
-################
+#################
+#               #
+#  PERFORMANCE  #
+#               #
+#################
 # C2ME
 https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.87%201.18-rc3/c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87-all.jar
 
@@ -37,11 +37,11 @@ https://github.com/astei/krypton/releases/download/v0.1.5/krypton-0.1.5.jar
 # Lazy DataFixerUpper
 https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar
 
-################
-#                                #
+##################
+#                #
 # ADMINISTRATION #
-#                                #
-################
+#                #
+##################
 # Ledger
 https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.0/ledger-1.2.0.jar
 
@@ -57,11 +57,11 @@ https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
 # LuckPerms
 https://ci.lucko.me/job/LuckPerms/1385/artifact/fabric/build/libs/LuckPerms-Fabric-5.3.86.jar
 
-################
-#                                #
-#         TWEAKS        #
-#                                #
-################
+##################
+#                #
+#     TWEAKS     #
+#                #
+##################
 
 # Discord integration
 https://cdn.modrinth.com/data/rbJ7eS5V/versions/2.3.5-fabric-1.18/dcintegration-fabric-2.3.5-1.18.jar
@@ -73,7 +73,7 @@ https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.5+1.18/mods-command-mc1.18-1
 https://cdn.modrinth.com/data/vhnZxUfZ/versions/1.1.0/boat-step-up-1.1.0.jar
 
 # Touchups
-https://cdn.discordapp.com/attachments/914670849204822046/916153508783345764/touchups-1.0-SNAPSHOT.jar
+https://cdn.discordapp.com/attachments/914670849204822046/916171731109027871/touchups-1.0-SNAPSHOT.jar
 
 # MiniMOTD
 #https://cdn.modrinth.com/data/16vhQOQN/versions/2.0.5+1.18/minimotd-fabric-mc1.18-2.0.5.jar
