@@ -16,7 +16,7 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	reduceLockRadius = "default"
 	# (Default: true) Whether to enable this feature
-	enabled = "true"
+	enabled = true
 
 # Configuration for async scheduling system
 [asyncScheduling]
@@ -49,7 +49,7 @@ globalExecutorParallelism = "default"
 	# Other values can result in crashes when starting minecraft  
 	# to prevent further damage
 	#
-	chunkStreamVersion = "1"
+	chunkStreamVersion = 1
 	# (Default: true) Whether to let async chunk request no longer block server thread 
 	# (may cause incompatibility with other mods) 
 	optimizeAsyncChunkRequest = "default"
