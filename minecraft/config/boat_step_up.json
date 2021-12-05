@@ -1,5 +1,5 @@
 {
-  "groundStepHeight": 0.25,
+  "groundStepHeight": 1,
   "waterStepHeight": 3.0,
   "__version": 2
 }

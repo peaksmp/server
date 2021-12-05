@@ -28,7 +28,6 @@ services:
       - ./minecraft:/data
       - ./mods.txt:/extras/mods.txt:ro
     env_file: .env.secrets
-    # TODO put some thought into this
     restart: unless-stopped
     tty: true
     stdin_open: true

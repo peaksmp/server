@@ -6,7 +6,7 @@
 #################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/0.43.1+1.18/fabric-api-0.43.1+1.18.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0+1.18/fabric-api-0.44.0+1.18.jar
 
 # Fabric Language Kotlin
 https://cdn.discordapp.com/attachments/914670849204822046/914676781334806538/fabric-language-kotlin-1.7.0kotlin.1.6.0.jar
@@ -26,7 +26,7 @@ https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.87%201.18-rc3/c2me
 https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.7.2/BlueMap-1.7.2-fabric-1.18.jar
 
 # Lithium
-https://cdn.discordapp.com/attachments/914670849204822046/915385540768047195/lithium-fabric-mc1.18-0.7.6-SNAPSHOT.jar
+https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.18-0.7.6-rc1/lithium-fabric-mc1.18-0.7.6-rc1.jar
 
 # Starlight
 https://cdn.discordapp.com/attachments/914670849204822046/914682910248960010/starlight-1.0.0fabric.5e8a60d.jar
@@ -46,7 +46,7 @@ https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.0/ledger-1.2.0.jar
 
 # Anti x-ray
-#https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18-1.1.1/anti-xray-mc1.18-1.1.1.jar
+https://github.com/DrexHD/AntiXray/releases/download/1.1.2/anti-xray-mc1.18-1.1.2.jar
 
 # Spark
 https://cdn.modrinth.com/data/l6YH9Als/versions/1.6.3-fabric/spark-fabric.jar
@@ -85,4 +85,4 @@ https://cdn.discordapp.com/attachments/914670849204822046/916184316290158672/tou
 https://cdn.modrinth.com/data/DQIfKUHf/versions/2.1.3+1.18/styledplayerlist-2.1.3+1.18.jar
 
 # Chunky Pregenerator
-https://cdn.modrinth.com/data/fALzjamp/versions/1.2.153/Chunky-1.2.153.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.96%201.18.1-pre1/c2me-fabric-mc1.18.1-pre1-0.2.0+alpha.5.96-all.jar
