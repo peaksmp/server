@@ -9,4 +9,4 @@ minecraft/config/luckperms/translations/
 .mixin.out
 .env.secrets
 nginx/ssl
-rclone.config
+rclone*.config
