@@ -364,8 +364,7 @@ settingsBlacklist = [    ]
       linkNumberNAN = "This is not a number!"
       # Message shown to players who are not whitelisted using discord
       # No effect if discord whitelist is off
-      notWhitelistedCode = "§bPeak\n\n§7To gain access to the Minecraft server\nverify your Discord account by
-      \nusing /link in the #account-linking channel.\n\n §fYour code is §b%code%\n\n§7If you haven't already, join the Discord at\n§bpeaksmp.org/discord"
+      notWhitelistedCode = "§bPeak\n\n§7To gain access to the Minecraft server\nverify your Discord account by\n      \nusing /link in the #account-linking channel.\n\n §fYour code is §b%code%\n\n§7If you haven't already, join the Discord at\n§bpeaksmp.org/discord"
       # Sent when trying to link without an required role
       link_requiredRole = "You need to have an role to use this"
       # Sent when trying to link as an non-member
