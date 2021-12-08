@@ -14,8 +14,8 @@
     "advancementGoal": "<lang:chat.type.advancement.goal:'${player}':'${advancement}'>",
     "teamChatSent": "<lang:'chat.type.team.sent':'<hover\\:\\'<lang\\:chat.type.team.hover>\\'><suggest_command\\:\\'/teammsg \\'>${team}':'${displayName}':'${message}'>",
     "teamChatReceived": "<lang:'chat.type.team.text':'<hover\\:\\'<lang\\:chat.type.team.hover>\\'><suggest_command\\:\\'/teammsg \\'>${team}':'${displayName}':'${message}'>",
-    "privateMessageSent": "<dark_gray>[<c:#2bb555>PM → ${receiver}</c>] »<gray> ${message}",
-    "privateMessageReceived": "<dark_gray>[<c:#33ff70>PM ← ${sender}</c>] »<gray> ${message}",
+    "privateMessageSent": "<dark_gray>[<c:#2bb555>PM → ${receiver}</c>] <gray>${message}",
+    "privateMessageReceived": "<dark_gray>[<c:#33ff70>PM ← ${sender}</c>] <gray>${message}",
     "sayCommand": "[${player}] ${message}",
     "meCommand": "<lang:'chat.type.emote':'${player}':'${message}'>"
   },
