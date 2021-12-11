@@ -68,16 +68,14 @@ https://cdn.discordapp.com/attachments/914670849204822046/919107262407147570/dci
 # /mods command
 https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.5+1.18/mods-command-mc1.18-1.0.5.jar
 
-# Boat Step Up
-https://cdn.modrinth.com/data/vhnZxUfZ/versions/1.1.0/boat-step-up-1.1.0.jar
-
-# Touchups
-https://cdn.discordapp.com/attachments/914670849204822046/919107930098393098/touchups-1.0-SNAPSHOT.jar
-
 # MiniMOTD
+https://cdn.modrinth.com/data/16vhQOQN/versions/2.0.5+1.18/minimotd-fabric-mc1.18-2.0.5.jar
 
 # Styled Chat
 # https://cdn.modrinth.com/data/doqSKB0e/versions/1.2.2+1.18/styled-chat-1.2.2+1.18.jar
 
 # Styled Player List
 https://cdn.modrinth.com/data/DQIfKUHf/versions/2.1.3+1.18/styledplayerlist-2.1.3+1.18.jar
+
+# Don't Do Death Despawn
+https://cdn.modrinth.com/data/kjr0ZJ4p/versions/1.0.0/dddd-1.0.0.jar
