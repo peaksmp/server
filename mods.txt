@@ -63,7 +63,7 @@ https://ci.lucko.me/job/LuckPerms/1388/artifact/fabric/build/libs/LuckPerms-Fabr
 https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.7.2/BlueMap-1.7.2-fabric-1.18.jar
 
 # Discord integration
-https://cdn.discordapp.com/attachments/914670849204822046/919107262407147570/dcintegration-fabric-2.3.6-1.18.1.jar
+https://cdn.discordapp.com/attachments/914670849204822046/919166278495776777/dcintegration-fabric-2.3.6-1.18.1.jar
 
 # /mods command
 https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.5+1.18/mods-command-mc1.18-1.0.5.jar
@@ -72,7 +72,7 @@ https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.5+1.18/mods-command-mc1.18-1
 https://cdn.modrinth.com/data/16vhQOQN/versions/2.0.5+1.18/minimotd-fabric-mc1.18-2.0.5.jar
 
 # Styled Chat
-# https://cdn.modrinth.com/data/doqSKB0e/versions/1.2.2+1.18/styled-chat-1.2.2+1.18.jar
+https://cdn.modrinth.com/data/doqSKB0e/versions/1.2.2+1.18/styled-chat-1.2.2+1.18.jar
 
 # Styled Player List
 https://cdn.modrinth.com/data/DQIfKUHf/versions/2.1.3+1.18/styledplayerlist-2.1.3+1.18.jar

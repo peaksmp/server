@@ -2,13 +2,19 @@
   "CONFIG_VERSION_DONT_TOUCH_THIS": 1,
   "_comment": "Before changing anything, see https://github.com/Patbox/StyledPlayerList#configuration",
   "defaultStyle": "default",
-  "updateRate": 20,
+  "updateRate": 10,
   "switchMessage": "Your player list style has been changed to: <gold>${style}</gold>",
   "unknownStyleMessage": "<red>This style doesn't exist!</red>",
   "permissionMessage": "<red>You don't have required permissions!</red>",
-  "changePlayerName": false,
-  "playerNameFormat": "%player:displayname%",
-  "updatePlayerNameEveryChatMessage": false,
-  "playerNameUpdateRate": -1,
-  "permissionNameFormat": []
+  "changePlayerName": true,
+  "playerNameFormat": "<gray>%player%",
+  "updatePlayerNameEveryChatMessage": true,
+  "playerNameUpdateRate": 400,
+  "permissionNameFormat": [
+    {
+      "permission": "admin",
+      "opLevel": -1,
+      "style": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray>%player:name%"
+    }
+  ]
 }

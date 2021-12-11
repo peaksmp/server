@@ -3,10 +3,10 @@
   "_comment": "Before changing anything, see https://github.com/Patbox/StyledChat#configuration",
   "defaultStyle": {
     "displayName": "${vanillaDisplayName}",
-    "chat": "<gray>${player}: ${message}",
+    "chat": "<gray><cmd:'/tell %player:name_visual% '><hover:'<gray>Click to message.'>${player}</hover></cmd>: ${message}",
     "join": "<gray>[<c:#4bc957>+</c>] ${player}",
     "joinRenamed": "<gray>[<c:#4bc957>+</c>] ${old_name} → ${player}",
-    "joinFirstTime": "<rainbow>[<c:#4bc957>+</c>] ${player}</rainbow>",
+    "joinFirstTime": "<gray>[<c:#4bc957>+</c>] ${player} <rainbow>First join!</rainbow>",
     "left": "<gray>[<c:#b52b2b>-</c>] ${player}",
     "death": "${default_message}",
     "advancementTask": "<><lang:chat.type.advancement.task:'${player}':'${advancement}'>",
@@ -21,11 +21,11 @@
   },
   "permissionStyles": [
     {
-      "permission": "group.admin",
-      "opLevel": 4,
+      "permission": "admin",
+      "opLevel": -1,
       "style": {
-        "displayName": "<c:#c94b4b>${vanillaDisplayName}</c>",
-        "chat": "<dark_gray>[<c:#c94b4b>Admin</c>]</dark_gray> <gray>${vanillaDisplayName}: ${message}"
+        "displayName": "<color:#b53735>${vanillaDisplayName}</color>",
+        "chat": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray><cmd:'/tell %player:name_visual% '><hover:'<gray>Click to message.'>%player:name%</hover></cmd>: ${message}"
       }
     }
   ],
