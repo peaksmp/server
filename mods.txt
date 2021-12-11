@@ -20,19 +20,19 @@ https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
 #               #
 #################
 # C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.87%201.18-rc3/c2me-fabric-mc1.18-rc3-0.2.0+alpha.5.87-all.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.99%201.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.99-all.jar
 
 # Bluemap
 https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.7.2/BlueMap-1.7.2-fabric-1.18.jar
 
 # Lithium
-https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.18-0.7.6-rc1/lithium-fabric-mc1.18-0.7.6-rc1.jar
+https://cdn.discordapp.com/attachments/914670849204822046/919051237670916106/lithium-fabric-mc1.18.1-0.7.6-SNAPSHOT.jar
 
 # Starlight
 https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar
 
 # Krypton
-https://github.com/astei/krypton/releases/download/v0.1.5/krypton-0.1.5.jar
+https://github.com/astei/krypton/releases/download/v0.1.6/krypton-0.1.6.jar
 
 # Lazy DataFixerUpper
 https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar
@@ -45,7 +45,7 @@ https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar
 # Ledger
 https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.0/ledger-1.2.0.jar
 
-# Anti X-ray
+# Anti x-ray
 https://github.com/DrexHD/AntiXray/releases/download/1.1.2/anti-xray-mc1.18-1.1.2.jar
 
 # Spark
@@ -55,7 +55,7 @@ https://cdn.modrinth.com/data/l6YH9Als/versions/1.6.3-fabric/spark-fabric.jar
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
 
 # LuckPerms
-https://ci.lucko.me/job/LuckPerms/1386/artifact/fabric/build/libs/LuckPerms-Fabric-5.3.87.jar
+https://ci.lucko.me/job/LuckPerms/1388/artifact/fabric/build/libs/LuckPerms-Fabric-5.3.89.jar
 
 ##################
 #                #
@@ -64,13 +64,19 @@ https://ci.lucko.me/job/LuckPerms/1386/artifact/fabric/build/libs/LuckPerms-Fabr
 ##################
 
 # Discord integration
-#https://cdn.modrinth.com/data/rbJ7eS5V/versions/2.3.5-fabric-1.18/dcintegration-fabric-2.3.5-1.18.jar
+https://cdn.discordapp.com/attachments/914670849204822046/919107262407147570/dcintegration-fabric-2.3.6-1.18.1.jar
 
 # /mods command
 https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.5+1.18/mods-command-mc1.18-1.0.5.jar
 
+# Boat Step Up
+https://cdn.modrinth.com/data/vhnZxUfZ/versions/1.1.0/boat-step-up-1.1.0.jar
+
+# Touchups
+https://cdn.discordapp.com/attachments/914670849204822046/919107930098393098/touchups-1.0-SNAPSHOT.jar
+
 # MiniMOTD
-https://cdn.modrinth.com/data/16vhQOQN/versions/2.0.5+1.18/minimotd-fabric-mc1.18-2.0.5.jar
+#https://cdn.modrinth.com/data/16vhQOQN/versions/2.0.5+1.18/minimotd-fabric-mc1.18-2.0.5.jar
 
 # Styled Chat
 #https://cdn.modrinth.com/data/doqSKB0e/versions/1.2.2+1.18/styled-chat-1.2.2+1.18.jar
