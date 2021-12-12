@@ -19,7 +19,7 @@ https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
 #               #
 #################
 # C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.99%201.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.99-all.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.104%201.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.104-all.jar
 
 # Lithium
 https://cdn.discordapp.com/attachments/914670849204822046/919051237670916106/lithium-fabric-mc1.18.1-0.7.6-SNAPSHOT.jar
