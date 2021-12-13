@@ -22,7 +22,7 @@ https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
 https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.104%201.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.104-all.jar
 
 # Lithium
-https://cdn.discordapp.com/attachments/914670849204822046/919811625941340210/lithium-fabric-mc1.18.1-0.7.6-SNAPSHOT.jar
+https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.18.1-0.7.6/lithium-fabric-mc1.18.1-0.7.6.jar
 
 # Starlight
 https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar
