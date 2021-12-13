@@ -13,7 +13,7 @@
   botStatusName = "%online% players Online"
   # Type of the bot's status
   # Allowed Values: DISABLED,PLAYING,WATCHING,LISTENING,STREAMING,COMPETING
-  botStatusType = "DISABLED"
+  botStatusType = "WATCHING"
   # URL of the bot's stream when using the status type 'STREAMING'
   # Has to start with https://twitch.tv/ or https://www.youtube.com/watch?v=
   streamingURL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
