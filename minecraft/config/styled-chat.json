@@ -6,10 +6,10 @@
     "chat": "<gray><cmd:'/tell %player:name_visual% '><hover:'<gray>Click to message.'>${player}</hover></cmd>: ${message}",
     "join": "<gray>[<c:#4bc957>+</c>] ${player}",
     "joinRenamed": "<gray>[<c:#4bc957>+</c>] ${old_name} → ${player}",
-    "joinFirstTime": "<gray>[<c:#4bc957>+</c>] ${player} <rainbow>First join!</rainbow>",
-    "left": "<gray>[<c:#b52b2b>-</c>] ${player}",
-    "death": "${default_message}",
-    "advancementTask": "<><lang:chat.type.advancement.task:'${player}':'${advancement}'>",
+    "joinFirstTime": "<dark_gray>[<c:#4bc957>+</c>] ${player} <rainbow>First join!</rainbow>",
+    "left": "<dark_gray>[<c:#b52b2b>-</c>] ${player}",
+    "death": "<dark_gray>[<c:#8a0200>☠</c>] <gray>${default_message}",
+    "advancementTask": "<lang:chat.type.advancement.task:'${player}':'${advancement}'>",
     "advancementChallenge": "<lang:chat.type.advancement.challenge:'${player}':'${advancement}'>",
     "advancementGoal": "<lang:chat.type.advancement.goal:'${player}':'${advancement}'>",
     "teamChatSent": "<lang:'chat.type.team.sent':'<hover\\:\\'<lang\\:chat.type.team.hover>\\'><suggest_command\\:\\'/teammsg \\'>${team}':'${displayName}':'${message}'>",
@@ -22,11 +22,12 @@
   "permissionStyles": [
     {
       "permission": "admin",
+      "opLevel": 3,
       "style": {
         "displayName": "<color:#b53735>${vanillaDisplayName}</color>",
         "chat": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray><cmd:'/tell %player:name_visual% '><hover:'<gray>Click to message.'>%player:name%</hover></cmd>: ${message}",
-        "join": "<gray>[<c:#4bc957>+</c>] ${player}",
-        "joinRenamed": "<gray>[<c:#4bc957>+</c>] ${old_name} → ${player}",
+        "join": "<dark_gray>[<c:#4bc957>+</c>] ${player}",
+        "joinRenamed": "<dark_gray>[<c:#4bc957>+</c>] ${old_name} → ${player}",
         "joinFirstTime": "<gray>[<c:#4bc957>+</c>] ${player} <rainbow>First join!</rainbow>",
         "left": "<gray>[<c:#b52b2b>-</c>] ${player}"
       }
