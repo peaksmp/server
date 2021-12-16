@@ -8,7 +8,7 @@
 https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0+1.18/fabric-api-0.44.0+1.18.jar
 
 # Fabric Language Kotlin
-https://cdn.discordapp.com/attachments/914670849204822046/914676781334806538/fabric-language-kotlin-1.7.0kotlin.1.6.0.jar
+https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.7.0%2Bkotlin.1.6.0/fabric-language-kotlin-1.7.0%2Bkotlin.1.6.0.jar
 
 # Player Events
 https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
@@ -52,6 +52,9 @@ https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
 
 # LuckPerms
 https://ci.lucko.me/job/LuckPerms/1388/artifact/fabric/build/libs/LuckPerms-Fabric-5.3.89.jar
+
+# Carpet
+https://github.com/gnembon/fabric-carpet/releases/download/1.4.56/fabric-carpet-1.18-1.4.56+v211130.jar
 
 ##################
 #                #
