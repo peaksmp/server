@@ -10,7 +10,7 @@
   # PLACEHOLDERS:
   # %online% - Online Players
   # %max% - Maximum Player Amount
-  botStatusName = "%online% players Online"
+  botStatusName = "the %online% players online"
   # Type of the bot's status
   # Allowed Values: DISABLED,PLAYING,WATCHING,LISTENING,STREAMING,COMPETING
   botStatusType = "WATCHING"
