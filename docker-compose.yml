@@ -9,20 +9,22 @@ services:
       EULA: true
       TYPE: 'FABRIC'
       VERSION: 'latest'
-      MEMORY: '8G'
+      MEMORY: '10G'
       MAX_PLAYERS: 64
       VIEW_DISTANCE: 12
       SIMULATION_DISTANCE: 8
+      ENTITY_BROADCAST_RANGE_PERCENTAGE: 150
       DIFFICULTY: 'hard'
       SPAWN_PROTECTION: 0
       SEED: 'peak'
       ENABLE_RCON: true
-      USE_AIKAR_FLAGS: true
+      SYNC_CHUNK_WRITES: false
       MAX_TICK_TIME: -1
-      ENABLE_AUTOPAUSE: false
+      ENABLE_AUTOPAUSE: true
       REMOVE_OLD_MODS: true
       OVERRIDE_SERVER_PROPERTIES: true
       MODS_FILE: '/extras/mods.txt'
+      JVM_XX_OPTS: '-XX:+UseLargePages -XX:LargePageSizeInBytes=2M -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:-UseBiasedLocking -XX:+DisableExplicitGC'
     volumes:
       - ./minecraft:/data
       - ./mods.txt:/extras/mods.txt:ro
