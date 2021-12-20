@@ -41,11 +41,11 @@ services:
         RCON_PORT: 25575
         RCON_RETRIES: 10
         RCON_RETRY_INTERVAL: 60s
-        EXCLUDES: '*.jar,cache,bluemap'
+        EXCLUDES: '*.jar,cache,bluemap,libraries,.fabric,versions'
         BACKUP_METHOD: restic
         BACKUP_INTERVAL: 1d
         PAUSE_IF_NO_PLAYERS: true
-        RESTIC_REPOSITORY: rclone:mega:Peak/Backups
+        RESTIC_REPOSITORY: b2:peaksmp:/restic
         PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
     volumes:
       - ./minecraft:/data:ro
