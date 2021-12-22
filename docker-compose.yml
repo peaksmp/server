@@ -24,7 +24,9 @@ services:
       MAX_TICK_TIME: -1
       ENABLE_AUTOPAUSE: true
       REMOVE_OLD_MODS: true
+      REMOVE_OLD_DATAPACKS: true
       OVERRIDE_SERVER_PROPERTIES: true
+      DATAPACKS_FILE: '/extras/datapacks.txt'
       MODS_FILE: '/extras/mods.txt'
       JVM_OPTS: '-server --add-modules jdk.incubator.vector'
       JVM_XX_OPTS: '-XX:+UseLargePages -XX:LargePageSizeInBytes=2M -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
@@ -32,6 +34,7 @@ services:
     volumes:
       - ./minecraft:/data
       - ./mods.txt:/extras/mods.txt:ro
+      - ./datapacks.txt:/extras/datapacks.txt:ro
       - ./config:/config
       - /dev/hugepages:/dev/hugepages
     env_file: .env.secrets
