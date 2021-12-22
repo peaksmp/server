@@ -1,6 +1,8 @@
 services:
   minecraft:
     image: 'itzg/minecraft-server'
+    hostname: minecraft
+    container_name: minecraft
     ports:
       - 25565:25565
       - 25575:25575
@@ -24,7 +26,9 @@ services:
       REMOVE_OLD_MODS: true
       OVERRIDE_SERVER_PROPERTIES: true
       MODS_FILE: '/extras/mods.txt'
+      JVM_OPTS: '-server --add-modules jdk.incubator.vector'
       JVM_XX_OPTS: '-XX:+UseLargePages -XX:LargePageSizeInBytes=2M -XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
+      JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
     volumes:
       - ./minecraft:/data
       - ./mods.txt:/extras/mods.txt:ro
@@ -36,6 +40,8 @@ services:
     stdin_open: true
   backup:
     image: 'itzg/mc-backup'
+    hostname: backups
+    container_name: backups
     environment:
         SRC_DIR: '/data'
         RCON_HOST: minecraft
@@ -56,6 +62,8 @@ services:
         - 'minecraft'
   website:
     image: 'ghcr.io/peaksmp/website:latest'
+    hostname: website
+    container_name: website
     ports:
         - 3000:3000
     init: true
@@ -63,6 +71,8 @@ services:
     stdin_open: true
   nginx:
     image: nginx
+    hostname: nginx
+    container_name: nginx
     ports:
         - 80:80
         - 443:443
