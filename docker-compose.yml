@@ -28,6 +28,7 @@ services:
     volumes:
       - ./minecraft:/data
       - ./mods.txt:/extras/mods.txt:ro
+      - ./config:/config
       - /dev/hugepages:/dev/hugepages
     env_file: .env.secrets
     restart: unless-stopped

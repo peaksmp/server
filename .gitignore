@@ -1,9 +1,5 @@
 .DS_Store
 minecraft/*
-!minecraft/config
-!minecraft/server-icon.png
-minecraft/config/spark/activity.json
-minecraft/config/luckperms/translations/
 .fabric
 .fabric-installer
 .mixin.out
