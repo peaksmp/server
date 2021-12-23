@@ -27,12 +27,15 @@ jobs:
           envs: GITHUB_URL,BOT_TOKEN,DEPLOY_PATH
           script: |
             cd $DEPLOY_PATH
-            if cd server; then
+            if [ -d "$DEPLOY_PATH/server" ]
+            then
+              cd server
               docker compose down
               git fetch --all
               git reset --hard origin/main
             else
               git clone $GITHUB_SERVER_URL/$GITHUB_REPOSITORY server
+              cd server
             fi
             dasel -f config/Discord-Integration.toml put string 'general.botToken' $BOT_TOKEN
             docker compose pull
