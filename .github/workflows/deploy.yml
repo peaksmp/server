@@ -50,16 +50,16 @@ jobs:
         uses: LeGitHubDeTai/github-to-discord@main
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          DISCORD_USERNAME: null
-          DISCORD_AVATAR: null
+          DISCORD_USERNAME: Axolotl
+          DISCORD_AVATAR: https://cdn.discordapp.com/attachments/914670849204822046/923383823155200110/axolotl.png
           MESSAGE_URL: ${{ steps.release_info.html_url }}
           MESSAGE_TITLE: ${{ steps.release_info.tag_name }}
-          MESSAGE_DESCRIPTION: ${{ steps.release_info.name }}
+          MESSAGE_DESCRIPTION: 'Release ${{ steps.release_info.name }}'
           MESSAGE_COLOR: 0x5AC0DE
           SECTION_NAME: "Changes"
           AUTHOR_NAME: "Peak"
           AUTHOR_URL: "https://peaksmp.org"
-          FOOTER_TEXT: null
-          FOOTER_URL: null
+          FOOTER_TEXT: "Peak"
+          FOOTER_URL: "https://peaksmp.org"
           AUTHOR_AVATAR: "https://cdn.discordapp.com/attachments/914670849204822046/923360021516025926/peak-discord.png"
 
