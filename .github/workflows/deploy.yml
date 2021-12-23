@@ -18,7 +18,7 @@ jobs:
           GITHUB_URL: '${{ github.server_url }}/${{ github.repository }}'
           BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
-          FOLDER_NAME: test
+          FOLDER_NAME: server
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
@@ -38,12 +38,12 @@ jobs:
               git clone $GITHUB_SERVER_URL/$GITHUB_REPOSITORY $FOLDER_NAME
               cd $FOLDER_NAME
             fi
-            dasel -f config/Discord-Integration.toml put string 'general.botToken' $BOT_TOKEN
+            dasel -f config/Discord-Integration.toml put string -s 'general.botToken' $BOT_TOKEN
             docker compose pull
             docker compose up -d
       - name: Get release info
         id: release_info
-        uses: jossef/action-latest-release-info@v1.1.0
+        uses: jossef/action-latest-release-info@v1.2.0
         env:
           GITHUB_TOKEN: ${{ github.token }}
       - name: Post release notes to Discord
