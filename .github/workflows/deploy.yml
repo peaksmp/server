@@ -18,24 +18,25 @@ jobs:
           GITHUB_URL: '${{ github.server_url }}/${{ github.repository }}'
           BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
+          FOLDER_NAME: test
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
           key: ${{ secrets.KEY }}
           port: ${{ secrets.PORT }}
           debug: true
-          envs: GITHUB_URL,BOT_TOKEN,DEPLOY_PATH
+          envs: GITHUB_URL,BOT_TOKEN,DEPLOY_PATH,FOLDER_NAME
           script: |
             cd $DEPLOY_PATH
-            if [ -d "$DEPLOY_PATH/server" ]
+            if [ -d "$DEPLOY_PATH/$FOLDER_NAME" ]
             then
-              cd server
+              cd $FOLDER_NAME
               docker compose down
               git fetch --all
               git reset --hard origin/main
             else
-              git clone $GITHUB_SERVER_URL/$GITHUB_REPOSITORY server
-              cd server
+              git clone $GITHUB_SERVER_URL/$GITHUB_REPOSITORY $FOLDER_NAME
+              cd $FOLDER_NAME
             fi
             dasel -f config/Discord-Integration.toml put string 'general.botToken' $BOT_TOKEN
             docker compose pull
