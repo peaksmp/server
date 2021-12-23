@@ -15,7 +15,7 @@ jobs:
       - name: Deploy to production
         uses: appleboy/ssh-action@master
         env:
-          GITHUB_URL: ${{ github.server_url }}/${{ github.repository }}
+          GITHUB_URL: '${{ github.server_url }}/${{ github.repository }}'
           BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
         with:
@@ -23,7 +23,6 @@ jobs:
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.KEY }}
           port: ${{ secrets.PORT }}
-          fingerprint: ${{ secrets.FINGERPRINT }}
           debug: true
           envs: GITHUB_URL,BOT_TOKEN,DEPLOY_PATH
           script: |
