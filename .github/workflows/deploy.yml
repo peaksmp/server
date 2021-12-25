@@ -38,7 +38,7 @@ jobs:
               git clone $GITHUB_SERVER_URL/$GITHUB_REPOSITORY $FOLDER_NAME
               cd $FOLDER_NAME
             fi
-            dasel -f config/Discord-Integration.toml put string -s 'general.botToken' $BOT_TOKEN
+            dasel put string -f config/Discord-Integration.toml -s 'general.botToken' -v $BOT_TOKEN
             docker compose pull
             docker compose up -d
       - name: Get release info

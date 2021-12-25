@@ -61,7 +61,6 @@ services:
         PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
     volumes:
       - ./minecraft:/data:ro
-      - ./rclone.config:/config/rclone/rclone.conf:ro
     env_file: .env.secrets
     depends_on:
         - 'minecraft'
