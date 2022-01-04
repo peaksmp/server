@@ -32,6 +32,7 @@ jobs:
             then
               cd $FOLDER_NAME
               docker compose down
+              rm fabric-*.jar
               git fetch --all
               git reset --hard origin/main
             else
