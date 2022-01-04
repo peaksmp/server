@@ -7,14 +7,14 @@
   "unknownStyleMessage": "<red>This style doesn't exist!</red>",
   "permissionMessage": "<red>You don't have required permissions!</red>",
   "changePlayerName": true,
-  "playerNameFormat": "<gray>%player:name%",
+  "playerNameFormat": "<gray>%player:displayname%",
   "updatePlayerNameEveryChatMessage": true,
   "playerNameUpdateRate": 400,
   "permissionNameFormat": [
     {
       "permission": "admin",
       "opLevel": -1,
-      "style": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray>%player:name%"
+      "style": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray>%player:displayname_visual%"
     }
   ]
 }

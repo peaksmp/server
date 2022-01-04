@@ -2,8 +2,7 @@
   "CONFIG_VERSION_DONT_TOUCH_THIS": 2,
   "_comment": "Before changing anything, see https://github.com/Patbox/StyledChat#configuration",
   "defaultStyle": {
-    "displayName": "${vanillaDisplayName}",
-    "chat": "<gray><cmd:'/tell %player:name_visual% '><hover:'<gray>Click to message.'>%player:name%</hover></cmd>: ${message}",
+    "chat": "<gray><cmd:'/tell %player:name_unformatted% '><hover:'<gray>Click to message.\n\nDeaths: %player:statistic/deaths%\nMob Kills: %player:statistic/mob_kills%'>%player:displayname_visual%</hover></cmd>: ${message}",
     "join": "<dark_gray>[<c:#4bc957>+</c>] <gray>${player}",
     "joinRenamed": "<dark_gray>[<c:#4bc957>+</c>] <gray>${old_name} → ${player}",
     "joinFirstTime": "<dark_gray>[<c:#4bc957>+</c>] <gray>${player} <rainbow>First join!</rainbow>",
@@ -24,8 +23,7 @@
       "permission": "admin",
       "opLevel": 3,
       "style": {
-        "displayName": "<color:#b53735>${vanillaDisplayName}</color>",
-        "chat": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray><cmd:'/tell %player:name_visual% '><hover:'<gray>Click to message.'>%player:name%</hover></cmd>: ${message}"
+        "chat": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray><cmd:'/tell %player:name_unformatted% '><hover:'<gray>Click to message.'>%player:displayname_visual%</hover></cmd>: ${message}"
       }
     }
   ],

@@ -79,3 +79,6 @@ https://cdn.modrinth.com/data/doqSKB0e/versions/1.2.3+1.18.1/styled-chat-1.2.3+1
 
 # Styled Player List
 https://cdn.modrinth.com/data/DQIfKUHf/versions/2.1.3+1.18/styledplayerlist-2.1.3+1.18.jar
+
+# Styled Nickames
+https://cdn.modrinth.com/data/DOk6Gcdi/versions/1.0.4+1.18.1/styled-nicknames-1.0.4+1.18.jar
