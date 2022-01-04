@@ -28,3 +28,6 @@ https://cdn.discordapp.com/attachments/914670849204822046/923152653645672468/gra
 
 # Cauldron Concrete
 https://cdn.discordapp.com/attachments/914670849204822046/923152653809242123/cauldron_concrete_v2.0.5.zip
+
+# Armored Elytra
+https://cdn.discordapp.com/attachments/914670849204822046/927690465799700501/armored_elytra.zip
