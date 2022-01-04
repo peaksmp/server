@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0+1.18/fabric-api-0.44.0+1.18.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/0.45.1+1.18/fabric-api-0.45.1+1.18.jar
 
 # Fabric Language Kotlin
 https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.7.0%2Bkotlin.1.6.0/fabric-language-kotlin-1.7.0%2Bkotlin.1.6.0.jar
@@ -19,10 +19,10 @@ https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
 #               #
 #################
 # C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.106%201.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.106-all.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.5.110%201.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.5.110-all.jar
 
 # Lithium
-https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.18.1-0.7.6/lithium-fabric-mc1.18.1-0.7.6.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.7/lithium-fabric-mc1.18.1-0.7.7.jar
 
 # Starlight
 https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar
@@ -51,7 +51,7 @@ https://cdn.modrinth.com/data/l6YH9Als/versions/1.6.3-fabric/spark-fabric.jar
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
 
 # LuckPerms
-https://ci.lucko.me/job/LuckPerms/1388/artifact/fabric/build/libs/LuckPerms-Fabric-5.3.89.jar
+https://ci.lucko.me/job/LuckPerms/1398/artifact/fabric/build/libs/LuckPerms-Fabric-5.3.98.jar
 
 # Carpet
 https://github.com/gnembon/fabric-carpet/releases/download/1.4.56/fabric-carpet-1.18-1.4.56+v211130.jar
@@ -75,7 +75,7 @@ https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.5+1.18/mods-command-mc1.18-1
 https://cdn.modrinth.com/data/16vhQOQN/versions/2.0.5+1.18/minimotd-fabric-mc1.18-2.0.5.jar
 
 # Styled Chat
-https://cdn.modrinth.com/data/doqSKB0e/versions/1.2.2+1.18/styled-chat-1.2.2+1.18.jar
+https://cdn.modrinth.com/data/doqSKB0e/versions/1.2.3+1.18.1/styled-chat-1.2.3+1.18.jar
 
 # Styled Player List
 https://cdn.modrinth.com/data/DQIfKUHf/versions/2.1.3+1.18/styledplayerlist-2.1.3+1.18.jar
