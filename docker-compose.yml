@@ -57,7 +57,6 @@ services:
         BACKUP_METHOD: restic
         BACKUP_INTERVAL: 1d
         PAUSE_IF_NO_PLAYERS: true
-        RESTIC_REPOSITORY: b2:peaksmp:/restic
         PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
     volumes:
       - ./minecraft:/data:ro
