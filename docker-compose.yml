@@ -21,8 +21,6 @@ services:
       SEED: 'peak'
       ENABLE_RCON: true
       SYNC_CHUNK_WRITES: false
-      MAX_TICK_TIME: -1
-      ENABLE_AUTOPAUSE: true
       REMOVE_OLD_MODS: true
       REMOVE_OLD_DATAPACKS: true
       OVERRIDE_SERVER_PROPERTIES: true

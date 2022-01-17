@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/0.45.2+1.18/fabric-api-0.45.2+1.18.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/0.46.0+1.18/fabric-api-0.46.0+1.18.jar
 
 # Fabric Language Kotlin
 https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.7.0%2Bkotlin.1.6.0/fabric-language-kotlin-1.7.0%2Bkotlin.1.6.0.jar
