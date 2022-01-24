@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/0.46.0+1.18/fabric-api-0.46.0+1.18.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/0.46.1+1.18/fabric-api-0.46.1+1.18.jar
 
 # Fabric Language Kotlin
 https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/1.7.0%2Bkotlin.1.6.0/fabric-language-kotlin-1.7.0%2Bkotlin.1.6.0.jar
@@ -19,7 +19,7 @@ https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
 #               #
 #################
 # C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.6.1%201.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.6.1-all.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.6.25%201.18.1/c2me-fabric-mc1.18.1-0.2.0+alpha.6.25-all.jar
 
 # Lithium
 https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.7/lithium-fabric-mc1.18.1-0.7.7.jar
@@ -45,7 +45,7 @@ https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.0/ledger-1.2.0.jar
 https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18-1.2.0-fabric/anti-xray-1.2.0-Fabric-1.18.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/1.7.2-fabric/spark-fabric.jar
+https://ci.lucko.me/job/spark/271/artifact/spark-fabric/build/libs/spark-fabric.jar
 
 # Server Tick
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
