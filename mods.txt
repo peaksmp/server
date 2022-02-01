@@ -45,7 +45,7 @@ https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.0/ledger-1.2.0.jar
 https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18-1.2.0-fabric/anti-xray-1.2.0-Fabric-1.18.jar
 
 # Spark
-https://ci.lucko.me/job/spark/271/artifact/spark-fabric/build/libs/spark-fabric.jar
+https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-fabric/build/libs/spark-fabric.jar
 
 # Server Tick
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
