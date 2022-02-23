@@ -19,10 +19,10 @@ https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
 #               #
 #################
 # C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.6.54+1.18.1/c2me-fabric-mc1.18.1-0.2.0%2Balpha.6.54-all.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.6.55+1.18.1/c2me-fabric-mc1.18.1-0.2.0%2Balpha.6.55-all.jar
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.7/lithium-fabric-mc1.18.1-0.7.7.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.8/lithium-fabric-mc1.18.1-0.7.8.jar
 
 # Starlight
 https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar
@@ -51,7 +51,7 @@ https://ci.lucko.me/job/spark/281/artifact/spark-fabric/build/libs/spark-1.8.6-f
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
 
 # LuckPerms
-https://ci.lucko.me/job/LuckPerms/1410/artifact/fabric/build/libs/LuckPerms-Fabric-5.4.2.jar
+https://ci.lucko.me/job/LuckPerms/1413/artifact/fabric/build/libs/LuckPerms-Fabric-5.4.5.jar
 
 # Carpet
 https://github.com/gnembon/fabric-carpet/releases/download/1.4.56/fabric-carpet-1.18-1.4.56+v211130.jar
