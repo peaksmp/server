@@ -39,7 +39,7 @@ https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar
 #                #
 ##################
 # Ledger
-https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.2/ledger-1.2.2.jar
+https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.3/ledger-1.2.3.jar
 
 # Anti X-ray
 https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18-1.2.0-fabric/anti-xray-1.2.0-Fabric-1.18.jar
