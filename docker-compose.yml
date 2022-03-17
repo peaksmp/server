@@ -26,7 +26,6 @@ services:
       OVERRIDE_SERVER_PROPERTIES: true
       DATAPACKS_FILE: '/extras/datapacks.txt'
       MODS_FILE: '/extras/mods.txt'
-      JVM_OPTS: '-server --add-modules jdk.incubator.vector'
       JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
       JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
     volumes:
