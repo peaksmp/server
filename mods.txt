@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/0.48.0+1.18.2/fabric-api-0.48.0%2B1.18.2.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/0.51.1+1.18.2/fabric-api-0.51.1%2B1.18.2.jar
 
 # Fabric Language Kotlin
 https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.1+kotlin.1.6.10/fabric-language-kotlin-1.7.1+kotlin.1.6.10.jar
@@ -45,7 +45,7 @@ https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.4/ledger-1.2.4.jar
 https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18.2-1.2.1-fabric/anti-xray-1.2.1-Fabric-1.18.2.jar
 
 # Spark
-https://ci.lucko.me/job/spark/289/artifact/spark-fabric/build/libs/spark-1.8.14-fabric.jar
+https://ci.lucko.me/job/spark/300/artifact/spark-fabric/build/libs/spark-1.9.1-fabric.jar
 
 # Server Tick
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
