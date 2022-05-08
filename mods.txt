@@ -11,7 +11,7 @@ https://cdn.modrinth.com/data/P7dR8mSH/versions/0.51.1+1.18.2/fabric-api-0.51.1%
 https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.1+kotlin.1.6.10/fabric-language-kotlin-1.7.1+kotlin.1.6.10.jar
 
 # Player Events
-https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.1/player-events-2.2.1.jar
+https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.2.4/player-events-2.2.4.jar
 
 #################
 #               #
@@ -45,13 +45,10 @@ https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.4/ledger-1.2.4.jar
 https://cdn.modrinth.com/data/sml2FMaA/versions/mc1.18.2-1.2.1-fabric/anti-xray-1.2.1-Fabric-1.18.2.jar
 
 # Spark
-https://ci.lucko.me/job/spark/300/artifact/spark-fabric/build/libs/spark-1.9.1-fabric.jar
-
-# Server Tick
-https://cdn.modrinth.com/data/nEKRNLz9/versions/1.6/servertick-mc1.18-1.6.jar
+https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-fabric/build/libs/spark-1.9.6-fabric.jar
 
 # LuckPerms
-https://ci.lucko.me/job/LuckPerms/1417/artifact/fabric/build/libs/LuckPerms-Fabric-5.4.9.jar
+https://ci.lucko.me/job/LuckPerms/lastSuccessfulBuild/artifact/fabric/build/libs/LuckPerms-Fabric-5.4.21.jar
 
 # Carpet
 https://github.com/gnembon/fabric-carpet/releases/download/1.4.66/fabric-carpet-1.18.2-1.4.66+v220228.jar
@@ -66,7 +63,7 @@ https://github.com/gnembon/fabric-carpet/releases/download/1.4.66/fabric-carpet-
 https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.7.2/BlueMap-1.7.2-fabric-1.18.jar
 
 # Discord integration
-# https://cdn.discordapp.com/attachments/881881371822424094/960829099029463060/dcintegration-fabric-2.3.6-1.18.2.jar
+https://cdn.modrinth.com/data/rbJ7eS5V/versions/2.4.1-fabric-1.18.2/dcintegration-fabric-2.4.1-1.18.jar
 
 # /mods command
 https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.6/mods-command-mc1.18.2-1.0.6.jar
@@ -84,4 +81,4 @@ https://cdn.modrinth.com/data/DQIfKUHf/versions/2.1.3+1.18/styledplayerlist-2.1.
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/1.0.4+1.18.1/styled-nicknames-1.0.4+1.18.jar
 
 # Tweaks
-https://github.com/peaksmp/tweaks/releases/download/v1.0.1/tweaks-1.0.1.jar
+https://github.com/peaksmp/tweaks/releases/download/v1.0.2/tweaks-1.0.2.jar
