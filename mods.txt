@@ -63,7 +63,7 @@ https://github.com/gnembon/fabric-carpet/releases/download/1.4.66/fabric-carpet-
 https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v1.7.2/BlueMap-1.7.2-fabric-1.18.jar
 
 # Discord integration
-https://cdn.modrinth.com/data/rbJ7eS5V/versions/2.4.1-fabric-1.18.2/dcintegration-fabric-2.4.1-1.18.jar
+https://cdn.modrinth.com/data/rbJ7eS5V/versions/2.4.2-fabric-1.18.2/dcintegration-fabric-2.4.2-1.18.jar
 
 # /mods command
 https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.6/mods-command-mc1.18.2-1.0.6.jar
