@@ -3,6 +3,7 @@
   "_comment": "Before changing anything, see https://github.com/Patbox/StyledPlayerList#configuration",
   "defaultStyle": "default",
   "updateRate": 10,
+  "displayOnSingleplayer": true,
   "switchMessage": "Your player list style has been changed to: <gold>${style}</gold>",
   "unknownStyleMessage": "<red>This style doesn't exist!</red>",
   "permissionMessage": "<red>You don't have required permissions!</red>",
