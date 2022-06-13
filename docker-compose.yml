@@ -21,7 +21,9 @@ services:
       SEED: '2527733443773253231'
       ENABLE_RCON: true
       SYNC_CHUNK_WRITES: false
-      OVERRIDE_SERVER_PROPERTIES: false
+      PREVIEW_CHAT: true
+      ENFORCE_SECURE_PROFILE: true
+      OVERRIDE_SERVER_PROPERTIES: true
       REMOVE_OLD_MODS: true
       REMOVE_OLD_VANILLATWEAKS: true
       MODS_FILE: '/extras/mods.txt'
