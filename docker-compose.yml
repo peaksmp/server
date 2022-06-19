@@ -40,45 +40,45 @@ services:
     restart: unless-stopped
     tty: true
     stdin_open: true
-#   backup:
-#     image: 'itzg/mc-backup'
-#     hostname: backups
-#     container_name: backups
-#     environment:
-#         SRC_DIR: '/data'
-#         RCON_HOST: minecraft
-#         RCON_PORT: 25575
-#         RCON_RETRIES: 10
-#         RCON_RETRY_INTERVAL: 60s
-#         BACKUP_NAME: 'peak'
-#         RESTIC_ADDITIONAL_TAGS: 'minecraft server'
-#         EXCLUDES: '*.jar,cache,bluemap,libraries,.fabric,versions'
-#         BACKUP_METHOD: restic
-#         BACKUP_INTERVAL: 1d
-#         PAUSE_IF_NO_PLAYERS: true
-#         PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
-#     volumes:
-#       - ./minecraft:/data:ro
-#     env_file: .env.secrets
-#     depends_on:
-#         - 'minecraft'
-#   website:
-#     image: 'ghcr.io/peaksmp/website:latest'
-#     hostname: website
-#     container_name: website
-#     ports:
-#         - 3000:3000
-#     init: true
-#     tty: true
-#     stdin_open: true
-#   nginx:
-#     image: nginx
-#     hostname: nginx
-#     container_name: nginx
-#     ports:
-#         - 80:80
-#         - 443:443
-#     volumes:
-#       - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
-#       - ./nginx/sites/:/etc/nginx/sites/:ro
-#       - ./nginx/ssl/:/etc/nginx/ssl/:ro
+  backup:
+    image: 'itzg/mc-backup'
+    hostname: backups
+    container_name: backups
+    environment:
+        SRC_DIR: '/data'
+        RCON_HOST: minecraft
+        RCON_PORT: 25575
+        RCON_RETRIES: 10
+        RCON_RETRY_INTERVAL: 60s
+        BACKUP_NAME: 'peak'
+        RESTIC_ADDITIONAL_TAGS: 'minecraft server'
+        EXCLUDES: '*.jar,cache,bluemap,libraries,.fabric,versions'
+        BACKUP_METHOD: restic
+        BACKUP_INTERVAL: 1d
+        PAUSE_IF_NO_PLAYERS: true
+        PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
+    volumes:
+      - ./minecraft:/data:ro
+    env_file: .env.secrets
+    depends_on:
+        - 'minecraft'
+  website:
+    image: 'ghcr.io/peaksmp/website:latest'
+    hostname: website
+    container_name: website
+    ports:
+        - 3000:3000
+    init: true
+    tty: true
+    stdin_open: true
+  nginx:
+    image: nginx
+    hostname: nginx
+    container_name: nginx
+    ports:
+        - 80:80
+        - 443:443
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/sites/:/etc/nginx/sites/:ro
+      - ./nginx/ssl/:/etc/nginx/ssl/:ro
