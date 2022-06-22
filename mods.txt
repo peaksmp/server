@@ -62,6 +62,9 @@ https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
 # Bluemap
 https://cdn.modrinth.com/data/swbUV1cr/versions/1.7.3-fabric-1.18/BlueMap-1.7.3-fabric-1.18.jar
 
+# Journey Map
+https://cdn.modrinth.com/data/lfHFW1mp/versions/1.19-5.8.5rc2-fabric/journeymap-1.19-5.8.5rc2-fabric.jar
+
 # Discord integration
 #https://cdn.modrinth.com/data/rbJ7eS5V/versions/2.4.2-fabric-1.18.2/dcintegration-fabric-2.4.2-1.18.jar
 
