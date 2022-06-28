@@ -3,10 +3,7 @@
   "version": "1.19",
   "packs": {
     "craftables": [
-      "craftable bundles rabbit hide",
-      "craftable bundles leather",
-	  "craftable name tags",
-	  "craftable saddles"
+      "craftable bundles rabbit hide"
     ],
     "unpackables": [
       "unpackable wool"
