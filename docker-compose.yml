@@ -27,14 +27,14 @@ services:
       REMOVE_OLD_MODS: true
       REMOVE_OLD_VANILLATWEAKS: true
       MODS_FILE: '/extras/mods.txt'
-      VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
+#       VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
       JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
       JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
     volumes:
       - ./minecraft:/data
       - ./mods.txt:/extras/mods.txt:ro
-      - ./datapacks.json:/extras/datapacks.json:ro
-      - ./crafting-tweaks.json:/extras/crafting-tweaks.json:ro
+#       - ./datapacks.json:/extras/datapacks.json:ro
+#       - ./crafting-tweaks.json:/extras/crafting-tweaks.json:ro
       - ./config:/config
     env_file: .env.secrets
     restart: unless-stopped
