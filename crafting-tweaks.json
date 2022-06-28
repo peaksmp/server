@@ -2,5 +2,14 @@
   "type": "craftingtweaks",
   "version": "1.19",
   "packs": {
+    "craftables": [
+      "craftable bundles rabbit hide",
+      "craftable bundles leather",
+	  "craftable name tags",
+	  "craftable saddles"
+    ],
+    "unpackables": [
+      "unpackable wool"
+    ]
   }
 }
