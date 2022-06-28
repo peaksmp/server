@@ -2,19 +2,5 @@
   "type": "datapacks",
   "version": "1.19",
   "packs": {
-    "survival": [
-      "graves",
-      "cauldron concrete",
-      "fast leaf decay"
-    ],
-    "mobs": [
-      "double shulker shells",
-      "dragon drops",
-      "more mob heads"
-    ],
-    "items": [
-      "armored elytra", 
-      "player head drops"
-    ]
   }
 }
