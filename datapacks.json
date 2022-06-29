@@ -3,7 +3,6 @@
   "version": "1.19",
   "packs": {
     "survival": [
-      "graves",
       "custom nether portals",
       "cauldron concrete",
       "fast leaf decay"
