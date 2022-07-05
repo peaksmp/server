@@ -68,15 +68,9 @@ services:
     image: 'ghcr.io/peaksmp/website:latest'
     hostname: website
     container_name: website
-    ports:
-        - 3000:3000
     init: true
     tty: true
     stdin_open: true
-  nginx:
-    image: nginx
-    hostname: nginx
-    container_name: nginx
     ports:
         - 80:80
         - 443:443
