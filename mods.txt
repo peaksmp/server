@@ -45,7 +45,7 @@ https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-fabric/build/li
 https://ci.lucko.me/job/LuckPerms/lastSuccessfulBuild/artifact/fabric/build/libs/LuckPerms-Fabric-5.4.30.jar
 
 # Minecraft Command Permissions
-https://cdn.discordapp.com/attachments/914670849204822046/993709103421608006/minecraft-command-permissions-1.6.0.jar
+https://github.com/lucko/minecraft-command-permissions-fabric/releases/download/v1.6.1/minecraft-command-permissions-1.6.1.jar
 
 # Carpet
 https://github.com/gnembon/fabric-carpet/releases/download/1.4.79/fabric-carpet-1.19-1.4.79+v220607.jar
