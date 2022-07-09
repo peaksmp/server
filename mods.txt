@@ -5,7 +5,7 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.4+0.57.0-1.19/qfapi-2.0.0-beta.4_qsl-2.0.0-beta.10_fapi-0.57.0_mc-1.19.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.5+0.57.0-1.19/qfapi-2.0.0-beta.5_qsl-2.0.0-beta.12_fapi-0.57.0_mc-1.19.jar
 
 # Fabric Language Kotlin
 https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.1+kotlin.1.7.0/fabric-language-kotlin-1.8.1+kotlin.1.7.0.jar
@@ -22,7 +22,7 @@ https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.3.1/player-events-2.3.1.jar
 https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.8.2+1.19/c2me-fabric-mc1.19-0.2.0+alpha.8.2.jar
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.0/lithium-fabric-mc1.19-0.8.0.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.1/lithium-fabric-mc1.19-0.8.1.jar
 
 # Starlight
 https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1+1.19/starlight-1.1.1+fabric.ae22326.jar
