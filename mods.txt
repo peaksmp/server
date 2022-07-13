@@ -10,9 +10,6 @@ https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.5+0.57.0-1.19/qfapi-2
 # Fabric Language Kotlin
 https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.1+kotlin.1.7.0/fabric-language-kotlin-1.8.1+kotlin.1.7.0.jar
 
-# Player Events
-https://cdn.modrinth.com/data/NLx6lJPJ/versions/2.3.1/player-events-2.3.1.jar
-
 #################
 #               #
 #  PERFORMANCE  #
