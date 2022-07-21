@@ -5,10 +5,10 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.5+0.57.0-1.19/qfapi-2.0.0-beta.5_qsl-2.0.0-beta.12_fapi-0.57.0_mc-1.19.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.8+0.57.0-1.19/qfapi-2.0.0-beta.8_qsl-2.0.0-beta.16_fapi-0.57.0_mc-1.19.jar
 
 # Fabric Language Kotlin
-https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.1+kotlin.1.7.0/fabric-language-kotlin-1.8.1+kotlin.1.7.0.jar
+https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.2+kotlin.1.7.10/fabric-language-kotlin-1.8.2%2Bkotlin.1.7.10.jar
 
 #################
 #               #
@@ -36,7 +36,7 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.0/krypton-0.2.0.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar
 
 # Spark
-https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-fabric/build/libs/spark-1.9.26-fabric.jar
+https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-fabric/build/libs/spark-1.9.29-fabric.jar
 
 # LuckPerms
 https://ci.lucko.me/job/LuckPerms/lastSuccessfulBuild/artifact/fabric/build/libs/LuckPerms-Fabric-5.4.30.jar
