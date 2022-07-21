@@ -39,7 +39,7 @@ https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar
 https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-fabric/build/libs/spark-1.9.29-fabric.jar
 
 # LuckPerms
-https://ci.lucko.me/job/LuckPerms/lastSuccessfulBuild/artifact/fabric/build/libs/LuckPerms-Fabric-5.4.30.jar
+https://download.luckperms.net/1443/fabric/LuckPerms-Fabric-5.4.35.jar
 
 # Minecraft Command Permissions
 https://github.com/lucko/minecraft-command-permissions-fabric/releases/download/v1.6.1/minecraft-command-permissions-1.6.1.jar
