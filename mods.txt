@@ -75,7 +75,7 @@ https://cdn.modrinth.com/data/DQIfKUHf/versions/2.2.2+1.19.1/styledplayerlist-2.
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/1.1.2+1.19/styled-nicknames-1.1.2+1.19.jar
 
 # Discord4Fabric
-https://cdn.modrinth.com/data/qc4oLwfr/versions/1.8.1-1.19.1/discord4fabric-1.19.1-1.8.1.jar
+https://cdn.discordapp.com/attachments/914670849204822046/1003033029868007474/discord4fabric-1.19.1-1.8.1.jar
 
 # Server Tick
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.7/servertick-mc1.19-1.7.jar
