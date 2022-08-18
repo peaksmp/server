@@ -5,7 +5,7 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.7+0.59.0-1.19.2/qfapi-4.0.0-beta.7_qsl-3.0.0-beta.10_fapi-0.59.0_mc-1.19.2.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.9+0.60.0-1.19.2/qfapi-4.0.0-beta.9_qsl-3.0.0-beta.14_fapi-0.60.0_mc-1.19.2.jar
 
 # Fabric Language Kotlin
 https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.2+kotlin.1.7.10/fabric-language-kotlin-1.8.2+kotlin.1.7.10.jar
@@ -16,7 +16,7 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.2+kotlin.1.7.10/fabric-langu
 #               #
 #################
 # C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.8.37+1.19.2/c2me-fabric-mc1.19.2-0.2.0%2Balpha.8.37.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.8.37+1.19.2/c2me-fabric-mc1.19.2-0.2.0+alpha.8.37.jar
 
 # Lithium
 https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19.2-0.8.3/lithium-fabric-mc1.19.2-0.8.3.jar
@@ -66,7 +66,7 @@ https://cdn.modrinth.com/data/lfHFW1mp/versions/1.19.1-5.9.0beta2-fabric/journey
 https://cdn.modrinth.com/data/16vhQOQN/versions/2.0.8+1.19/minimotd-fabric-mc1.19-2.0.8.jar
 
 # Styled Chat
-https://cdn.modrinth.com/data/doqSKB0e/versions/1.4.1+1.19.2/styled-chat-1.4.1%2B1.19.2.jar
+https://cdn.modrinth.com/data/doqSKB0e/versions/1.4.1+1.19.2/styled-chat-1.4.1+1.19.2.jar
 
 # Styled Player List
 https://cdn.modrinth.com/data/DQIfKUHf/versions/2.2.2+1.19.1/styledplayerlist-2.2.2+1.19.1.jar
@@ -75,7 +75,7 @@ https://cdn.modrinth.com/data/DQIfKUHf/versions/2.2.2+1.19.1/styledplayerlist-2.
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/1.1.2+1.19/styled-nicknames-1.1.2+1.19.jar
 
 # Discord4Fabric
-https://cdn.modrinth.com/data/qc4oLwfr/versions/1.9.0-1.19.1/discord4fabric-1.19.1-1.9.0.jar
+https://cdn.modrinth.com/data/qc4oLwfr/versions/1.10.0-1.19.1/discord4fabric-1.19.1-1.10.0.jar
 
 # Server Tick
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.7/servertick-mc1.19-1.7.jar
