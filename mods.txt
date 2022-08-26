@@ -63,7 +63,7 @@ https://cdn.modrinth.com/data/swbUV1cr/versions/URGg6hB0/BlueMap-3.3-fabric-1.19
 https://cdn.modrinth.com/data/lfHFW1mp/versions/1.19.1-5.9.0beta2-fabric/journeymap-1.19.1-5.9.0beta2-fabric.jar
 
 # MiniMOTD
-https://cdn.modrinth.com/data/16vhQOQN/versions/2.0.8+1.19/minimotd-fabric-mc1.19-2.0.8.jar
+https://cdn.modrinth.com/data/16vhQOQN/versions/c745jM85/minimotd-fabric-mc1.19.2-2.0.9.jar
 
 # Styled Chat
 https://cdn.modrinth.com/data/doqSKB0e/versions/1.4.1+1.19.2/styled-chat-1.4.1+1.19.2.jar
