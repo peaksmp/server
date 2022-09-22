@@ -5,7 +5,7 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/SHjwCrR0/qfapi-4.0.0-beta.10_qsl-3.0.0-beta.15_fapi-0.60.0_mc-1.19.2.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/VNZ3SkYT/quilted-fabric-api-4.0.0-beta.12+0.61.0-1.19.2.jar
 
 # Quilt Kotlin Libraries
 https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-0.1.2-MODFEST+kt.1.7.10+flk.1.8.2.jar
@@ -36,10 +36,10 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.1/krypton-0.2.1.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar
 
 # Spark
-https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-fabric/build/libs/spark-1.9.33-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/g60nhl1v/spark-1.9.36-fabric.jar
 
 # LuckPerms
-https://download.luckperms.net/1449/fabric/LuckPerms-Fabric-5.4.41.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/5inRjMdb/LuckPerms-Fabric-5.4.46.jar
 
 # Minecraft Command Permissions
 https://github.com/lucko/minecraft-command-permissions-fabric/releases/download/v1.6.1/minecraft-command-permissions-1.6.1.jar
@@ -57,7 +57,7 @@ https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
 ##################
 
 # Bluemap
-https://cdn.modrinth.com/data/swbUV1cr/versions/URGg6hB0/BlueMap-3.3-fabric-1.19.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/LyJMFM8L/BlueMap-3.4-fabric-1.19.jar
 
 # Journey Map
 https://cdn.modrinth.com/data/lfHFW1mp/versions/1.19.1-5.9.0beta2-fabric/journeymap-1.19.1-5.9.0beta2-fabric.jar
