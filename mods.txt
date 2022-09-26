@@ -5,7 +5,7 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/VNZ3SkYT/quilted-fabric-api-4.0.0-beta.12+0.61.0-1.19.2.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/RMRJccdH/quilted-fabric-api-4.0.0-beta.13+0.62.0-1.19.2.jar
 
 # Quilt Kotlin Libraries
 https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-0.1.2-MODFEST+kt.1.7.10+flk.1.8.2.jar
@@ -36,7 +36,7 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.1/krypton-0.2.1.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/g60nhl1v/spark-1.9.36-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/FnKxsd40/spark-1.9.40-fabric.jar
 
 # LuckPerms
 https://cdn.modrinth.com/data/Vebnzrzj/versions/5inRjMdb/LuckPerms-Fabric-5.4.46.jar
