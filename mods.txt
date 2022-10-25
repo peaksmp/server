@@ -5,7 +5,7 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/RMRJccdH/quilted-fabric-api-4.0.0-beta.13+0.62.0-1.19.2.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/1RL57ufH/quilted-fabric-api-4.0.0-beta.17+0.64.0-1.19.2.jar
 
 # Quilt Kotlin Libraries
 https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-0.1.2-MODFEST+kt.1.7.10+flk.1.8.2.jar
@@ -16,10 +16,10 @@ https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-
 #               #
 #################
 # C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.8.37+1.19.2/c2me-fabric-mc1.19.2-0.2.0+alpha.8.37.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/YaQCrYHB/c2me-fabric-mc1.19.2-0.2.0+alpha.9.0.jar
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19.2-0.8.3/lithium-fabric-mc1.19.2-0.8.3.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/ySBrfN8N/lithium-fabric-mc1.19.2-0.10.0.jar
 
 # Starlight
 https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1+1.19/starlight-1.1.1+fabric.ae22326.jar
@@ -36,7 +36,7 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.1/krypton-0.2.1.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/FnKxsd40/spark-1.9.40-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/3opVno4q/spark-1.9.42-fabric.jar
 
 # LuckPerms
 https://cdn.modrinth.com/data/Vebnzrzj/versions/5inRjMdb/LuckPerms-Fabric-5.4.46.jar
@@ -57,7 +57,7 @@ https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
 ##################
 
 # Bluemap
-https://cdn.modrinth.com/data/swbUV1cr/versions/LyJMFM8L/BlueMap-3.4-fabric-1.19.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/v1Swvpou/BlueMap-3.5-fabric-1.19.jar
 
 # Journey Map
 https://cdn.modrinth.com/data/lfHFW1mp/versions/1.19.1-5.9.0beta2-fabric/journeymap-1.19.1-5.9.0beta2-fabric.jar
@@ -66,7 +66,7 @@ https://cdn.modrinth.com/data/lfHFW1mp/versions/1.19.1-5.9.0beta2-fabric/journey
 https://cdn.modrinth.com/data/16vhQOQN/versions/c745jM85/minimotd-fabric-mc1.19.2-2.0.9.jar
 
 # Styled Chat
-https://cdn.modrinth.com/data/doqSKB0e/versions/1.4.1+1.19.2/styled-chat-1.4.1+1.19.2.jar
+https://cdn.modrinth.com/data/doqSKB0e/versions/itzoW5yD/styled-chat-2.0.1+1.19.2.jar
 
 # Styled Player List
 https://cdn.modrinth.com/data/DQIfKUHf/versions/2.2.2+1.19.1/styledplayerlist-2.2.2+1.19.1.jar
@@ -75,7 +75,7 @@ https://cdn.modrinth.com/data/DQIfKUHf/versions/2.2.2+1.19.1/styledplayerlist-2.
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/1.1.2+1.19/styled-nicknames-1.1.2+1.19.jar
 
 # Discord4Fabric
-https://cdn.modrinth.com/data/qc4oLwfr/versions/1.10.0-1.19.1/discord4fabric-1.19.1-1.10.0.jar
+https://cdn.modrinth.com/data/qc4oLwfr/versions/C7PYhqvB/discord4fabric-1.19.2-1.10.1.jar
 
 # Server Tick
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.7/servertick-mc1.19-1.7.jar
