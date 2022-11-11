@@ -5,7 +5,7 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/1RL57ufH/quilted-fabric-api-4.0.0-beta.17+0.64.0-1.19.2.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/zzHaJbi0/quilted-fabric-api-4.0.0-beta.19+0.64.0-1.19.2.jar
 
 # Quilt Kotlin Libraries
 https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-0.1.2-MODFEST+kt.1.7.10+flk.1.8.2.jar
@@ -19,7 +19,7 @@ https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-
 https://cdn.modrinth.com/data/VSNURh3q/versions/YaQCrYHB/c2me-fabric-mc1.19.2-0.2.0+alpha.9.0.jar
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/xVm1caOt/lithium-fabric-mc1.19.2-0.10.1.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/IQxlSIiw/lithium-fabric-mc1.19.2-0.10.2.jar
 
 # Starlight
 https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1+1.19/starlight-1.1.1+fabric.ae22326.jar
@@ -56,8 +56,8 @@ https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
 #                #
 ##################
 
-# Bluemap
-https://cdn.modrinth.com/data/swbUV1cr/versions/v1Swvpou/BlueMap-3.5-fabric-1.19.jar
+# Blue Map
+https://cdn.modrinth.com/data/swbUV1cr/versions/n0vYjxsR/BlueMap-3.6-fabric-1.19.jar
 
 # Journey Map
 https://cdn.modrinth.com/data/lfHFW1mp/versions/1.19.1-5.9.0beta2-fabric/journeymap-1.19.1-5.9.0beta2-fabric.jar
