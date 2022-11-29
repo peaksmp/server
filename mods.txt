@@ -5,7 +5,7 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/zzHaJbi0/quilted-fabric-api-4.0.0-beta.19+0.64.0-1.19.2.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/NRjGGNrs/qfapi-4.0.0-beta.22_qsl-3.0.0-beta.22_fapi-0.67.1_mc-1.19.2.jar
 
 # Quilt Kotlin Libraries
 https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-0.1.2-MODFEST+kt.1.7.10+flk.1.8.2.jar
@@ -81,7 +81,7 @@ https://cdn.modrinth.com/data/qc4oLwfr/versions/C7PYhqvB/discord4fabric-1.19.2-1
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.7/servertick-mc1.19-1.7.jar
 
 # /mods Command
-https://cdn.modrinth.com/data/PExmWQV8/versions/1.0.9+1.10/mods-command-mc1.19-1.0.9.jar
+https://cdn.modrinth.com/data/PExmWQV8/versions/WF1aOp9L/mods-command-mc1.19.2-1.0.10.jar
 
 # Tweaks
 https://github.com/peaksmp/tweaks/releases/download/v1.0.5/tweaks-1.0.5.jar
