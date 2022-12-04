@@ -8,7 +8,7 @@
 https://cdn.modrinth.com/data/qvIfYCYJ/versions/WmdTkZ6I/qfapi-4.0.0-beta.23_qsl-3.0.0-beta.22_fapi-0.68.0_mc-1.19.2.jar
 
 # Quilt Kotlin Libraries
-https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-0.1.2-MODFEST+kt.1.7.10+flk.1.8.2.jar
+https://cdn.modrinth.com/data/lwVhp9o5/versions/UMYsuGTO/quilt-kotlin-libraries-1.0.0+kt.1.7.20+flk.1.8.5.jar
 
 #################
 #               #
