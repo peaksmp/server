@@ -5,10 +5,10 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/WmdTkZ6I/qfapi-4.0.0-beta.23_qsl-3.0.0-beta.22_fapi-0.68.0_mc-1.19.2.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/TbQBjHUn/qfapi-5.0.0-alpha.7_qsl-4.0.0-beta.3_fapi-0.70.0_mc-1.19.3.jar
 
 # Quilt Kotlin Libraries
-https://cdn.modrinth.com/data/lwVhp9o5/versions/UMYsuGTO/quilt-kotlin-libraries-1.0.0+kt.1.7.20+flk.1.8.5.jar
+https://cdn.modrinth.com/data/lwVhp9o5/versions/NqD6unKV/quilt-kotlin-libraries-1.0.1+kt.1.7.22+flk.1.8.6.jar
 
 #################
 #               #
@@ -16,10 +16,10 @@ https://cdn.modrinth.com/data/lwVhp9o5/versions/UMYsuGTO/quilt-kotlin-libraries-
 #               #
 #################
 # C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/YaQCrYHB/c2me-fabric-mc1.19.2-0.2.0+alpha.9.0.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/kakddk9k/c2me-fabric-mc1.19.3-0.2.0+alpha.9.12.jar
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/IQxlSIiw/lithium-fabric-mc1.19.2-0.10.2.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/XS6vJwop/lithium-fabric-mc1.19.3-0.10.4.jar
 
 # Starlight
 https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1+1.19/starlight-1.1.1+fabric.ae22326.jar
@@ -33,10 +33,10 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.1/krypton-0.2.1.jar
 #                #
 ##################
 # Ledger
-https://cdn.modrinth.com/data/LVN9ygNV/versions/1.2.5/ledger-1.2.5.jar
+https://cdn.modrinth.com/data/LVN9ygNV/versions/ykSbFGkA/ledger-1.2.6.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/RhyaY2vw/spark-1.9.45-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/OT1CD9Qj/spark-1.10.17-fabric.jar
 
 # LuckPerms
 https://cdn.modrinth.com/data/Vebnzrzj/versions/5inRjMdb/LuckPerms-Fabric-5.4.46.jar
@@ -57,22 +57,22 @@ https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/n0vYjxsR/BlueMap-3.6-fabric-1.19.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/Ib6sSf3k/BlueMap-3.7-fabric-1.19.3.jar
 
 # Journey Map
-https://cdn.modrinth.com/data/lfHFW1mp/versions/1.19.1-5.9.0beta2-fabric/journeymap-1.19.1-5.9.0beta2-fabric.jar
+https://cdn.modrinth.com/data/lfHFW1mp/versions/HEJihg90/journeymap-1.19.3-5.9.0beta5-fabric.jar
 
 # MiniMOTD
-https://cdn.modrinth.com/data/16vhQOQN/versions/c745jM85/minimotd-fabric-mc1.19.2-2.0.9.jar
+https://cdn.modrinth.com/data/16vhQOQN/versions/pCQSF0rT/minimotd-fabric-mc1.19.3-2.0.10.jar
 
 # Styled Chat
-https://cdn.modrinth.com/data/doqSKB0e/versions/itzoW5yD/styled-chat-2.0.1+1.19.2.jar
+https://cdn.modrinth.com/data/doqSKB0e/versions/aABVYx7R/styled-chat-2.1.0+1.19.3.jar
 
 # Styled Player List
-https://cdn.modrinth.com/data/DQIfKUHf/versions/2.2.2+1.19.1/styledplayerlist-2.2.2+1.19.1.jar
+https://cdn.modrinth.com/data/DQIfKUHf/versions/cEi0Qx95/styledplayerlist-2.3.0+1.19.3.jar
 
 # Styled Nickames
-https://cdn.modrinth.com/data/DOk6Gcdi/versions/1.1.2+1.19/styled-nicknames-1.1.2+1.19.jar
+https://cdn.modrinth.com/data/DOk6Gcdi/versions/ZAebiU4g/styled-nicknames-1.2.0+1.19.3.jar
 
 # Discord4Fabric
 https://cdn.modrinth.com/data/qc4oLwfr/versions/C7PYhqvB/discord4fabric-1.19.2-1.10.1.jar
@@ -81,7 +81,7 @@ https://cdn.modrinth.com/data/qc4oLwfr/versions/C7PYhqvB/discord4fabric-1.19.2-1
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.7/servertick-mc1.19-1.7.jar
 
 # /mods Command
-https://cdn.modrinth.com/data/PExmWQV8/versions/PcOKsQZR/mods-command-mc1.19.2-1.0.11.jar
+https://cdn.modrinth.com/data/PExmWQV8/versions/jUewkWdi/mods-command-mc1.19.3-1.0.12.jar
 
 # Tweaks
-https://github.com/peaksmp/tweaks/releases/download/v1.0.5/tweaks-1.0.5.jar
+https://github.com/peaksmp/tweaks/releases/download/v1.0.6/tweaks-1.0.6.jar
