@@ -5,10 +5,10 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/TbQBjHUn/qfapi-5.0.0-alpha.7_qsl-4.0.0-beta.3_fapi-0.70.0_mc-1.19.3.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/MoSNH4oo/qfapi-5.0.0-alpha.8_qsl-4.0.0-beta.4_fapi-0.71.0_mc-1.19.3.jar
 
 # Quilt Kotlin Libraries
-https://cdn.modrinth.com/data/lwVhp9o5/versions/NqD6unKV/quilt-kotlin-libraries-1.0.1+kt.1.7.22+flk.1.8.6.jar
+https://cdn.modrinth.com/data/lwVhp9o5/versions/xGk0YDl2/quilt-kotlin-libraries-1.1.0+kt.1.8.0+flk.1.9.0.jar
 
 #################
 #               #
@@ -16,7 +16,7 @@ https://cdn.modrinth.com/data/lwVhp9o5/versions/NqD6unKV/quilt-kotlin-libraries-
 #               #
 #################
 # C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/kakddk9k/c2me-fabric-mc1.19.3-0.2.0+alpha.9.12.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/FpgVeSQK/c2me-fabric-mc1.19.3-0.2.0+alpha.10.0.jar
 
 # Lithium
 https://cdn.modrinth.com/data/gvQqBUqZ/versions/XS6vJwop/lithium-fabric-mc1.19.3-0.10.4.jar
@@ -39,13 +39,13 @@ https://cdn.modrinth.com/data/LVN9ygNV/versions/ykSbFGkA/ledger-1.2.6.jar
 https://cdn.modrinth.com/data/l6YH9Als/versions/OT1CD9Qj/spark-1.10.17-fabric.jar
 
 # LuckPerms
-https://cdn.modrinth.com/data/Vebnzrzj/versions/5inRjMdb/LuckPerms-Fabric-5.4.46.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/NopnADlz/LuckPerms-Fabric-5.4.57.jar
 
 # Minecraft Command Permissions
 https://github.com/lucko/minecraft-command-permissions-fabric/releases/download/v1.6.1/minecraft-command-permissions-1.6.1.jar
 
 # Carpet
-https://github.com/gnembon/fabric-carpet/releases/download/1.4.83/fabric-carpet-1.19.1-1.4.83+v220727.jar
+https://cdn.modrinth.com/data/TQTTVgYE/versions/b0lLyrj4/fabric-carpet-1.19.3-1.4.93+v221230.jar
 
 # Chunky
 https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
@@ -57,16 +57,16 @@ https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/Ib6sSf3k/BlueMap-3.7-fabric-1.19.3.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/qDb1pZV1/BlueMap-3.9-fabric-1.19.3.jar
 
 # Journey Map
-https://cdn.modrinth.com/data/lfHFW1mp/versions/HEJihg90/journeymap-1.19.3-5.9.0beta5-fabric.jar
+https://cdn.modrinth.com/data/lfHFW1mp/versions/ltytblyW/journeymap-1.19.3-5.9.2-fabric.jar
 
 # MiniMOTD
 https://cdn.modrinth.com/data/16vhQOQN/versions/pCQSF0rT/minimotd-fabric-mc1.19.3-2.0.10.jar
 
 # Styled Chat
-https://cdn.modrinth.com/data/doqSKB0e/versions/aABVYx7R/styled-chat-2.1.0+1.19.3.jar
+https://cdn.modrinth.com/data/doqSKB0e/versions/BriPIjGV/styled-chat-2.1.2+1.19.3.jar
 
 # Styled Player List
 https://cdn.modrinth.com/data/DQIfKUHf/versions/cEi0Qx95/styledplayerlist-2.3.0+1.19.3.jar
@@ -75,7 +75,7 @@ https://cdn.modrinth.com/data/DQIfKUHf/versions/cEi0Qx95/styledplayerlist-2.3.0+
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/ZAebiU4g/styled-nicknames-1.2.0+1.19.3.jar
 
 # Discord4Fabric
-https://cdn.modrinth.com/data/qc4oLwfr/versions/C7PYhqvB/discord4fabric-1.19.2-1.10.1.jar
+https://cdn.modrinth.com/data/qc4oLwfr/versions/A3ipwNqL/discord4fabric-1.19.3-1.10.2.jar
 
 # Server Tick
 https://cdn.modrinth.com/data/nEKRNLz9/versions/1.7/servertick-mc1.19-1.7.jar
@@ -85,3 +85,9 @@ https://cdn.modrinth.com/data/PExmWQV8/versions/jUewkWdi/mods-command-mc1.19.3-1
 
 # Tweaks
 https://github.com/peaksmp/tweaks/releases/download/v1.0.6/tweaks-1.0.6.jar
+
+# Let Me Despawn
+https://cdn.modrinth.com/data/vE2FN5qn/versions/GxiQF9u0/letmedespawn-1.18.x-1.19.x-fabric-1.0.2.jar
+
+# No Unused Chunks
+https://cdn.modrinth.com/data/U8avpWmO/versions/3iiQMpXR/nounusedchunks-1.4.jar

@@ -3,7 +3,7 @@
   "_comment": "Before changing anything, see https://github.com/Patbox/StyledChat#configuration",
   "defaultStyle": {
     "displayName": "${default}",
-    "chat": "<gray><cmd:'/tell %player:name_unformatted% '><hover:'<gray>Click to message.\n\nDeaths: %player:statistic number_of_deaths%\nMob Kills: %player:statistic mob_kills%'>%player:displayname_visual%</hover></cmd><gray>: ${message}",
+    "chat": "<gray><cmd:'/tell %player:name_unformatted% '><hover:'<gray>Click to message.\n\nDeaths: %player:statistic deaths%\nMob Kills: %player:statistic mob_kills%'>%player:displayname_visual%</hover></cmd><gray>: ${message}",
     "join": "<dark_gray>[<c:#4bc957>+</c>] <gray>${player}",
     "joinRenamed": "<dark_gray>[<c:#4bc957>+</c>] <gray>${old_name} → ${player}",
     "joinFirstTime": "<dark_gray>[<c:#4bc957>+</c>] <gray>${player} <rainbow>First join!</rainbow>",
