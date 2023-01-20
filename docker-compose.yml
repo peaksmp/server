@@ -54,7 +54,7 @@ services:
         RCON_RETRY_INTERVAL: 60s
         BACKUP_NAME: 'peak'
         RESTIC_ADDITIONAL_TAGS: 'minecraft server'
-        EXCLUDES: '*.jar,cache,bluemap,libraries,.fabric,versions'
+        EXCLUDES: '*.jar,cache,bluemap,journeymap,libraries,.fabric,versions'
         BACKUP_METHOD: restic
         BACKUP_INTERVAL: 1d
         PAUSE_IF_NO_PLAYERS: true
