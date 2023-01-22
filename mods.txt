@@ -16,11 +16,6 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/esSFbyFg/fabric-language-kotlin-
 #  PERFORMANCE  #
 #               #
 #################
-# C2ME
-https://cdn.modrinth.com/data/VSNURh3q/versions/FpgVeSQK/c2me-fabric-mc1.19.3-0.2.0+alpha.10.0.jar
-
-# Very Many Players
-https://cdn.modrinth.com/data/wnEe9KBa/versions/AFPKrtwP/vmp-fabric-mc1.19.3-0.2.0+beta.7.38-all.jar
 
 # Lithium
 https://cdn.modrinth.com/data/gvQqBUqZ/versions/XS6vJwop/lithium-fabric-mc1.19.3-0.10.4.jar
