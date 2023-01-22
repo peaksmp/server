@@ -13,7 +13,7 @@ services:
       EULA: true
       TYPE: 'QUILT'
       VERSION: '1.19.3'
-      MEMORY: '10G'
+      MEMORY: '5G'
       MAX_PLAYERS: 64
       LEVEL_TYPE: 'minecraft:normal'
       VIEW_DISTANCE: 12
