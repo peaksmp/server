@@ -11,7 +11,7 @@ services:
       - 8100:8100
     environment:
       EULA: true
-      TYPE: 'QUILT'
+      TYPE: 'FABRIC'
       VERSION: '1.19.3'
       MEMORY: '5G'
       MAX_PLAYERS: 64

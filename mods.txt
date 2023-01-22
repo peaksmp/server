@@ -5,10 +5,11 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/MoSNH4oo/qfapi-5.0.0-alpha.8_qsl-4.0.0-beta.4_fapi-0.71.0_mc-1.19.3.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/PbVeub96/fabric-api-0.73.0+1.19.3.jar
 
-# Quilt Kotlin Libraries
-https://cdn.modrinth.com/data/lwVhp9o5/versions/xGk0YDl2/quilt-kotlin-libraries-1.1.0+kt.1.8.0+flk.1.9.0.jar
+# Quilt Kotlin Libraries (Required by Ledger)
+https://cdn.modrinth.com/data/Ha28R6CL/versions/esSFbyFg/fabric-language-kotlin-1.9.0+kotlin.1.8.0.jar
+#https://cdn.modrinth.com/data/lwVhp9o5/versions/xGk0YDl2/quilt-kotlin-libraries-1.1.0+kt.1.8.0+flk.1.9.0.jar
 
 #################
 #               #
