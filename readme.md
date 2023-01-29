@@ -4,6 +4,5 @@ The Docker compose setup for the Peak infrastructure. The list of services manag
 
 - Minecraft Server
 - Backups
-- Svelte Site
-- Discord bot
+- Website
 - nginx
