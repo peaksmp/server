@@ -34,7 +34,7 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.1/krypton-0.2.1.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/ykSbFGkA/ledger-1.2.6.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/OT1CD9Qj/spark-1.10.17-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/1K3xO8TS/spark-1.10.29-fabric.jar
 
 # LuckPerms
 https://cdn.modrinth.com/data/Vebnzrzj/versions/DcPV35qG/LuckPerms-Fabric-5.4.60.jar
@@ -55,7 +55,7 @@ https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/qDb1pZV1/BlueMap-3.9-fabric-1.19.3.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/QCeLBm9O/BlueMap-3.10-fabric-1.19.3.jar
 
 # Journey Map
 https://cdn.modrinth.com/data/lfHFW1mp/versions/ltytblyW/journeymap-1.19.3-5.9.2-fabric.jar
