@@ -6,9 +6,9 @@ services:
     cap_add:
       - "SYS_ADMIN"
     ports:
-      - 25565:25565
-      - 25575:25575
-      - 8100:8100
+      - 25565:25565 # Minecraft
+      - 25575:25575 # Rcon
+      - 8100:8100   # Blue Map
     environment:
       EULA: true
       TYPE: 'QUILT'
@@ -18,7 +18,7 @@ services:
       LEVEL_TYPE: 'minecraft:normal'
       VIEW_DISTANCE: 12
       SIMULATION_DISTANCE: 8
-      ENTITY_BROADCAST_RANGE_PERCENTAGE: 100
+      ENTITY_BROADCAST_RANGE_PERCENTAGE: 150
       DIFFICULTY: 'hard'
       SPAWN_PROTECTION: 0
       SEED: '2527733443773253231'
