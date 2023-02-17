@@ -5,7 +5,7 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/ZUB07xly/qfapi-5.0.0-beta.4_qsl-4.0.0-beta.10_fapi-0.73.0_mc-1.19.3.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/oQbYgY9f/qfapi-5.0.0-beta.6_qsl-4.0.0-beta.11_fapi-0.74.0_mc-1.19.3.jar
 
 # Quilt Kotlin Libraries (Required by Ledger)
 https://cdn.modrinth.com/data/lwVhp9o5/versions/xGk0YDl2/quilt-kotlin-libraries-1.1.0+kt.1.8.0+flk.1.9.0.jar
