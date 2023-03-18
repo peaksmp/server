@@ -12,7 +12,7 @@ services:
     environment:
       EULA: true
       TYPE: 'QUILT'
-      VERSION: '1.19.3'
+      VERSION: '1.19.4'
       MEMORY: '5G'
       MAX_PLAYERS: 64
       LEVEL_TYPE: 'minecraft:normal'
