@@ -64,7 +64,7 @@ https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
 https://cdn.modrinth.com/data/swbUV1cr/versions/OHAKzbDr/BlueMap-3.12-fabric-1.19.4.jar
 
 # Journey Map
-https://cdn.modrinth.com/data/lfHFW1mp/versions/p6KaY8uz/journeymap-1.19.4-5.9.4beta1-fabric.jar
+https://cdn.modrinth.com/data/lfHFW1mp/versions/Hwb4D5Lw/journeymap-1.19.4-5.9.4beta2-fabric.jar
 
 # MiniMOTD
 https://cdn.modrinth.com/data/16vhQOQN/versions/em1YSYQg/minimotd-fabric-mc1.19.4-2.0.11.jar
