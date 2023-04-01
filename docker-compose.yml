@@ -26,8 +26,7 @@ services:
       MOTD: '\u00a7r                         \u00a7b\u2604  Peak  \ud83c\udf0a\u00a7r\n                    \u00a77Above and beyond!'
       OVERRIDE_SERVER_PROPERTIES: true
       REMOVE_OLD_MODS: true
-      JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
-      JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
+      USE_AIKAR_FLAGS: true
     volumes:
       - ./minecraft:/data
       - ./peak.png:/data/server-icon.png
