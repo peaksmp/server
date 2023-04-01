@@ -1,6 +1,6 @@
 services:
   minecraft:
-    image: 'itzg/minecraft-server'
+    image: 'itzg/minecraft-server:java8-multiarch'
     hostname: minecraft
     container_name: minecraft
     cap_add:
@@ -10,6 +10,7 @@ services:
       - 25575:25575 # Rcon
     environment:
       EULA: true
+      VERSION: '1.16.5'
       TYPE: 'AUTO_CURSEFORGE'
       CF_SLUG: 'create-above-and-beyond'
       MEMORY: '8G'
