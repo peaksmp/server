@@ -8,7 +8,6 @@ services:
     ports:
       - 25565:25565 # Minecraft
       - 25575:25575 # Rcon
-      - 8100:8100   # Blue Map
     environment:
       EULA: true
       TYPE: 'AUTO_CURSEFORGE'
@@ -23,14 +22,14 @@ services:
       SPAWN_PROTECTION: 0
       ENABLE_RCON: true
       SYNC_CHUNK_WRITES: false
-      ENFORCE_SECURE_PROFILE: true
+      MOTD: '\u00a7r                         \u00a7b\u2604  Peak  \ud83c\udf0a\u00a7r\n                    \u00a77Above and beyond!'
       OVERRIDE_SERVER_PROPERTIES: true
       REMOVE_OLD_MODS: true
       JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
       JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
     volumes:
       - ./minecraft:/data
-#       - ./config:/config
+      - ./peak.png:/data/server-icon.png
     env_file: .env.secrets
     restart: unless-stopped
     tty: true
