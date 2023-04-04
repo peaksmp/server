@@ -5,10 +5,10 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/AmlAy82C/qfapi-6.0.0-beta.2_qsl-5.0.0-beta.1_fapi-0.76.0_mc-1.19.4.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/9gcIrw5Z/qfapi-6.0.0-beta.3_qsl-5.0.0-beta.2_fapi-0.76.0_mc-1.19.4.jar
 
-# Quilt Kotlin Libraries (Required by Ledger) *
-https://cdn.modrinth.com/data/lwVhp9o5/versions/rvPEzQsW/quilt-kotlin-libraries-1.1.1+kt.1.8.10+flk.1.9.2.jar
+# Quilt Kotlin Libraries (Required by Ledger)
+https://cdn.modrinth.com/data/lwVhp9o5/versions/p9eQkY9q/quilt-kotlin-libraries-2.0.1+kt.1.8.20+flk.1.9.3.jar
 
 #################
 #               #
@@ -61,10 +61,10 @@ https://cdn.modrinth.com/data/fALzjamp/versions/1.2.202/Chunky-1.2.202.jar
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/OHAKzbDr/BlueMap-3.12-fabric-1.19.4.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/uip7tqyD/BlueMap-3.13-fabric-1.19.4.jar
 
 # Journey Map
-https://cdn.modrinth.com/data/lfHFW1mp/versions/Hwb4D5Lw/journeymap-1.19.4-5.9.4beta2-fabric.jar
+https://cdn.modrinth.com/data/lfHFW1mp/versions/158xhA1m/journeymap-1.19.4-5.9.5-fabric.jar
 
 # MiniMOTD
 https://cdn.modrinth.com/data/16vhQOQN/versions/em1YSYQg/minimotd-fabric-mc1.19.4-2.0.11.jar
