@@ -10,6 +10,7 @@ services:
       - 25575:25575 # Rcon
       - 8100:8100   # Blue Map
     environment:
+      DEBUG: true
       EULA: true
       TYPE: 'QUILT'
       VERSION: '1.19.4'
@@ -61,6 +62,7 @@ services:
         PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
     volumes:
       - ./minecraft:/data:ro
+      - ./backups:/backups
     env_file: .env.secrets
     depends_on:
         - 'minecraft'

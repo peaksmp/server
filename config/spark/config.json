@@ -1,0 +1,5 @@
+{
+  "_header": "spark configuration file - https://spark.lucko.me/docs/Configuration",
+  "backgroundProfiler": true,
+  "_marker_background_profiler_failed": false
+}
