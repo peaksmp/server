@@ -8,7 +8,7 @@
 https://cdn.modrinth.com/data/qvIfYCYJ/versions/9gcIrw5Z/qfapi-6.0.0-beta.3_qsl-5.0.0-beta.2_fapi-0.76.0_mc-1.19.4.jar
 
 # Quilt Kotlin Libraries (Required by Ledger)
-https://cdn.modrinth.com/data/lwVhp9o5/versions/p9eQkY9q/quilt-kotlin-libraries-2.0.1+kt.1.8.20+flk.1.9.3.jar
+https://cdn.modrinth.com/data/lwVhp9o5/versions/weDX41J0/quilt-kotlin-libraries-2.0.2+kt.1.8.20+flk.1.9.3.jar
 
 #################
 #               #
@@ -69,7 +69,7 @@ https://cdn.modrinth.com/data/lfHFW1mp/versions/158xhA1m/journeymap-1.19.4-5.9.5
 https://cdn.modrinth.com/data/16vhQOQN/versions/em1YSYQg/minimotd-fabric-mc1.19.4-2.0.11.jar
 
 # Styled Chat
-https://cdn.modrinth.com/data/doqSKB0e/versions/krxsLfUl/styled-chat-2.1.5+1.19.4.jar
+https://cdn.modrinth.com/data/doqSKB0e/versions/WSgVV9CL/styled-chat-2.1.6+1.19.4.jar
 
 # Styled Player List
 https://cdn.modrinth.com/data/DQIfKUHf/versions/cEi0Qx95/styledplayerlist-2.3.0+1.19.3.jar
@@ -87,7 +87,7 @@ https://cdn.modrinth.com/data/PExmWQV8/versions/BxXkq7ZA/mods-command-mc1.19.4-1
 https://github.com/peaksmp/tweaks/releases/download/v1.0.7/tweaks-1.0.7.jar
 
 # Debugify
-https://cdn.modrinth.com/data/QwxR6Gcd/versions/GtD9tAHh/Debugify-1.19.4+1.0.jar
+https://cdn.modrinth.com/data/QwxR6Gcd/versions/CQP9o8LS/Debugify-1.19.4+2.0.jar
 
 # Inventory Management
 https://cdn.modrinth.com/data/F7wXag4i/versions/WAiOItc4/inventorymanagement-1.1.0+1.19.3.jar
