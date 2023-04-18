@@ -29,7 +29,8 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/Tncui9tU/krypton-0.2.2.jar
 https://cdn.modrinth.com/data/r0v8vy1s/versions/F0ROppUm/alternate-current-mc1.19-1.5.0.jar
 
 # Fastload
-https://cdn.modrinth.com/data/kCpssoSb/versions/WryJ0FUZ/Fastload+1.18.2-1.19.4-3.3.3.jar
+https://cdn.modrinth.com/data/kCpssoSb/versions/PB8AbQO3/Fastload+1.18.2-1.19.4-3.3.5.jar
+
 ##################
 #                #
 # ADMINISTRATION #
