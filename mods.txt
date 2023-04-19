@@ -29,7 +29,7 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/Tncui9tU/krypton-0.2.2.jar
 https://cdn.modrinth.com/data/r0v8vy1s/versions/F0ROppUm/alternate-current-mc1.19-1.5.0.jar
 
 # Fastload
-https://cdn.modrinth.com/data/kCpssoSb/versions/PB8AbQO3/Fastload+1.18.2-1.19.4-3.3.5.jar
+https://cdn.modrinth.com/data/kCpssoSb/versions/OxwM6hRt/Fastload+1.18.2-1.19.4-3.3.7.jar
 
 ##################
 #                #
@@ -88,7 +88,7 @@ https://cdn.modrinth.com/data/PExmWQV8/versions/BxXkq7ZA/mods-command-mc1.19.4-1
 https://github.com/peaksmp/tweaks/releases/download/v1.0.7/tweaks-1.0.7.jar
 
 # Debugify
-https://cdn.modrinth.com/data/QwxR6Gcd/versions/CQP9o8LS/Debugify-1.19.4+2.0.jar
+https://cdn.modrinth.com/data/QwxR6Gcd/versions/oevI3RPR/Debugify-1.19.4+2.1.jar
 
 # Inventory Management
 https://cdn.modrinth.com/data/F7wXag4i/versions/WAiOItc4/inventorymanagement-1.1.0+1.19.3.jar
