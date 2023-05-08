@@ -5,7 +5,7 @@
 ##################
 
 # Quilt Standard Libraries
-https://cdn.modrinth.com/data/qvIfYCYJ/versions/8eRjIPoA/qfapi-6.0.0-beta.5_qsl-5.0.0-beta.4_fapi-0.78.0_mc-1.19.4.jar
+https://cdn.modrinth.com/data/qvIfYCYJ/versions/Ng2kCEiP/qfapi-6.0.0-beta.6_qsl-5.0.0-beta.5_fapi-0.79.0_mc-1.19.4.jar
 
 # Quilt Kotlin Libraries (Required by Ledger)
 https://cdn.modrinth.com/data/lwVhp9o5/versions/weDX41J0/quilt-kotlin-libraries-2.0.2+kt.1.8.20+flk.1.9.3.jar
@@ -67,7 +67,7 @@ https://cdn.modrinth.com/data/swbUV1cr/versions/uip7tqyD/BlueMap-3.13-fabric-1.1
 https://cdn.modrinth.com/data/lfHFW1mp/versions/158xhA1m/journeymap-1.19.4-5.9.5-fabric.jar
 
 # MiniMOTD
-https://cdn.modrinth.com/data/16vhQOQN/versions/em1YSYQg/minimotd-fabric-mc1.19.4-2.0.11.jar
+https://cdn.modrinth.com/data/16vhQOQN/versions/bkUniRG3/minimotd-fabric-mc1.19.4-2.0.12.jar
 
 # Styled Chat
 https://cdn.modrinth.com/data/doqSKB0e/versions/WSgVV9CL/styled-chat-2.1.6+1.19.4.jar
