@@ -10,7 +10,6 @@ services:
       - 25575:25575 # Rcon
       - 8100:8100   # Blue Map
     environment:
-      DEBUG: true
       EULA: true
       TYPE: 'FABRIC'
       VERSION: '1.20.2'
