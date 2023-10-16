@@ -6,3 +6,4 @@ minecraft/*
 .env.secrets
 nginx/ssl
 rclone*.config
+restic/*
