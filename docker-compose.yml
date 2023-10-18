@@ -8,11 +8,10 @@ services:
     ports:
       - 25565:25565 # Minecraft
       - 25575:25575 # Rcon
-      - 8100:8100   # Blue Map
     environment:
       EULA: true
-      TYPE: 'FABRIC'
-      VERSION: '1.20.2'
+      TYPE: 'VANILLA'
+      VERSION: '23w42a'
       MEMORY: '5G'
       MAX_PLAYERS: 64
       LEVEL_TYPE: 'minecraft:normal'
@@ -27,16 +26,17 @@ services:
       OVERRIDE_SERVER_PROPERTIES: true
       REMOVE_OLD_MODS: true
       REMOVE_OLD_VANILLATWEAKS: true
+      INITIAL_ENABLED_PACKS: update_1_21,trade_rebalance,bundle
+      MOTD: "                             §b§lPeak\n          §7§oWelcome to the industrial revolution!" # Needs double quotes for '\n' to work
+      ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
       VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
       JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
       JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
     volumes:
       - ./minecraft:/data
-      - ./mods.txt:/extras/mods.txt:ro
       - ./datapacks.json:/extras/datapacks.json:ro
       - ./crafting-tweaks.json:/extras/crafting-tweaks.json:ro
-      - ./config:/config
     env_file: .env.secrets
     restart: unless-stopped
     tty: true
