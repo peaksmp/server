@@ -7,3 +7,4 @@ minecraft/*
 nginx/ssl
 rclone*.config
 restic/*
+backups/*
