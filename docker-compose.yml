@@ -21,6 +21,7 @@ services:
       DIFFICULTY: 'hard'
       SPAWN_PROTECTION: 0
       ENABLE_RCON: true
+      ENABLE_COMMAND_BLOCK: true
       SYNC_CHUNK_WRITES: false
       ENFORCE_SECURE_PROFILE: true
       OVERRIDE_SERVER_PROPERTIES: true
