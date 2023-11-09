@@ -11,7 +11,7 @@ services:
     environment:
       EULA: true
       TYPE: 'VANILLA'
-      VERSION: '23w44a'
+      VERSION: '23w45a'
       MEMORY: '5G'
       MAX_PLAYERS: 64
       LEVEL_TYPE: 'minecraft:normal'
