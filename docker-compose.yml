@@ -31,7 +31,7 @@ services:
       MOTD: "                             §b§lPeak\n          §7§oWelcome to the industrial revolution!" # Needs double quotes for '\n' to work
       ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
-      VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
+#      VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
       JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
       JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
     volumes:
