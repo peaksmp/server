@@ -15,7 +15,6 @@ services:
       VERSION: '1.20.2'
       MEMORY: '5G'
       MAX_PLAYERS: 64
-      LEVEL_TYPE: 'minecraft:normal'
       VIEW_DISTANCE: 12
       SIMULATION_DISTANCE: 8
       ENTITY_BROADCAST_RANGE_PERCENTAGE: 150
@@ -41,7 +40,7 @@ services:
     restart: unless-stopped
     tty: true
     stdin_open: true
-  backup:
+  backups:
     image: 'itzg/mc-backup'
     hostname: backups
     container_name: backups
