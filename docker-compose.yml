@@ -12,7 +12,7 @@ services:
     environment:
       EULA: true
       TYPE: 'FABRIC'
-      VERSION: '1.20.2'
+      VERSION: '1.20.4'
       MEMORY: '5G'
       MAX_PLAYERS: 64
       VIEW_DISTANCE: 12
@@ -26,6 +26,9 @@ services:
       OVERRIDE_SERVER_PROPERTIES: true
       REMOVE_OLD_MODS: true
       REMOVE_OLD_VANILLATWEAKS: true
+      INITIAL_ENABLED_PACKS: bundle
+      MOTD: "                             §b§lPeak\n          §7§oWelcome to the industrial revolution!" # Needs double quotes for '\n' to work
+      ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
       VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
       JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
