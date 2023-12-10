@@ -68,7 +68,7 @@ https://cdn.modrinth.com/data/vE2FN5qn/versions/qpC0XlcW/letmedespawn-fabric-1.2
 https://cdn.modrinth.com/data/doqSKB0e/versions/hPPTz9OM/styled-chat-2.4.0%2B1.20.3.jar
 
 # Styled Player List
-#https://cdn.modrinth.com/data/DQIfKUHf/versions/jcLxMRaH/styledplayerlist-3.3.0%2B1.20.3.jar
+https://cdn.modrinth.com/data/DQIfKUHf/versions/jcLxMRaH/styledplayerlist-3.3.0%2B1.20.3.jar
 
 # Styled Nickames
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/R7dIzguo/styled-nicknames-1.4.0%2B1.20.3.jar
