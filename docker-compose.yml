@@ -27,7 +27,7 @@ services:
       REMOVE_OLD_MODS: true
       REMOVE_OLD_VANILLATWEAKS: true
       INITIAL_ENABLED_PACKS: bundle
-      MOTD: "                             §b§lPeak\n                       §7§oHappy holidays!" # Needs double quotes for '\n' to work
+      MOTD: "                             §b§lPeak\n               §7☃🏔  §oHappy holidays!  §7🏔☃" # Needs double quotes for '\n' to work
       ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
       VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
