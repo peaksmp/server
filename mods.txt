@@ -8,7 +8,7 @@
 https://cdn.modrinth.com/data/P7dR8mSH/versions/JQ07mKWY/fabric-api-0.91.3%2B1.20.4.jar
 
 # Fabric Language Kotlin (Required by Ledger)
-https://cdn.modrinth.com/data/Ha28R6CL/versions/VJUqKopR/fabric-language-kotlin-1.10.16%2Bkotlin.1.9.21.jar
+https://cdn.modrinth.com/data/Ha28R6CL/versions/JjrWZ7m8/fabric-language-kotlin-1.10.17%2Bkotlin.1.9.22.jar
 
 #################
 #               #
@@ -84,6 +84,3 @@ https://cdn.modrinth.com/data/nEKRNLz9/versions/DrJ7grH7/servertick-mc1.20.2-1.9
 
 # Tweaks
 https://github.com/peaksmp/tweaks/releases/download/v1.0.11/tweaks-1.0.11.jar
-
-# View Distance Fix
-https://cdn.modrinth.com/data/nxrXbh5K/versions/rRWSAjzu/viewdistancefix-1.20.4-1.0.1.jar
