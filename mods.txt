@@ -26,7 +26,7 @@ https://cdn.modrinth.com/data/gvQqBUqZ/versions/nMhjKWVE/lithium-fabric-mc1.20.4
 https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar
 
 # Krypton
-https://cdn.modrinth.com/data/fQEb0iXm/versions/X2k7QAQS/krypton-0.2.5.jar
+https://cdn.modrinth.com/data/fQEb0iXm/versions/bRcuOnao/krypton-0.2.6.jar
 
 ##################
 #                #
