@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/JQ07mKWY/fabric-api-0.91.3%2B1.20.4.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/2sYBLn0C/fabric-api-0.93.1%2B1.20.4.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/JjrWZ7m8/fabric-language-kotlin-1.10.17%2Bkotlin.1.9.22.jar
@@ -65,7 +65,7 @@ https://cdn.modrinth.com/data/swbUV1cr/versions/QjdzVjGq/BlueMap-3.20-fabric-1.2
 https://cdn.modrinth.com/data/vE2FN5qn/versions/qpC0XlcW/letmedespawn-fabric-1.20.x-1.2.0.jar
 
 # MiniMOTD
-#https://cdn.modrinth.com/data/16vhQOQN/versions/3stGUvKr/minimotd-fabric-mc1.20.2-2.0.14.jar
+https://cdn.modrinth.com/data/16vhQOQN/versions/M7WdzIda/minimotd-fabric-mc1.20.4-2.1.0.jar
 
 # Styled Chat
 https://cdn.modrinth.com/data/doqSKB0e/versions/hPPTz9OM/styled-chat-2.4.0%2B1.20.3.jar
