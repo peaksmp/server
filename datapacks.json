@@ -1,6 +1,6 @@
 {
   "type": "datapacks",
-  "version": "1.20",
+  "version": "1.21",
   "packs": {
     "survival": [
       "fast leaf decay"

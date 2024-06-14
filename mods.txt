@@ -5,10 +5,10 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/2sYBLn0C/fabric-api-0.93.1%2B1.20.4.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/HXzEJYgV/fabric-api-0.100.1%2B1.21.jar
 
 # Fabric Language Kotlin (Required by Ledger)
-https://cdn.modrinth.com/data/Ha28R6CL/versions/JjrWZ7m8/fabric-language-kotlin-1.10.17%2Bkotlin.1.9.22.jar
+https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar
 
 #################
 #               #
@@ -17,16 +17,16 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/JjrWZ7m8/fabric-language-kotlin-
 #################
 
 # Alternate Current
-https://cdn.modrinth.com/data/r0v8vy1s/versions/zrRsTCOk/alternate-current-mc1.20-1.7.0.jar
+#https://cdn.modrinth.com/data/r0v8vy1s/versions/zrRsTCOk/alternate-current-mc1.20-1.7.0.jar
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/nMhjKWVE/lithium-fabric-mc1.20.4-0.12.1.jar
+#https://cdn.modrinth.com/data/gvQqBUqZ/versions/nMhjKWVE/lithium-fabric-mc1.20.4-0.12.1.jar
 
 # FerriteCore
-https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar
+#https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar
 
 # Krypton
-https://cdn.modrinth.com/data/fQEb0iXm/versions/bRcuOnao/krypton-0.2.6.jar
+#https://cdn.modrinth.com/data/fQEb0iXm/versions/bRcuOnao/krypton-0.2.6.jar
 
 ##################
 #                #
@@ -35,22 +35,22 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/bRcuOnao/krypton-0.2.6.jar
 ##################
 
 # Carpet
-https://cdn.modrinth.com/data/TQTTVgYE/versions/yYzR60Xd/fabric-carpet-1.20.3-1.4.128%2Bv231205.jar
+https://github.com/gnembon/fabric-carpet/releases/download/1.4.147/fabric-carpet-1.21-1.4.147+v240613.jar
 
 # Chunky
-https://cdn.modrinth.com/data/fALzjamp/versions/t8SbUchF/Chunky-1.3.92.jar
+https://cdn.modrinth.com/data/fALzjamp/versions/nstsfdMu/Chunky-1.4.14.jar
 
 # Ledger
-https://cdn.modrinth.com/data/LVN9ygNV/versions/aeyvUBDY/ledger-1.2.10.jar
+#https://cdn.modrinth.com/data/LVN9ygNV/versions/aeyvUBDY/ledger-1.2.10.jar
 
 # LuckPerms
-https://cdn.modrinth.com/data/Vebnzrzj/versions/42RCP8I8/LuckPerms-Fabric-5.4.113.jar
+#https://cdn.modrinth.com/data/Vebnzrzj/versions/42RCP8I8/LuckPerms-Fabric-5.4.113.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/FeV5OquF/spark-1.10.58-fabric.jar
+#https://cdn.modrinth.com/data/l6YH9Als/versions/FeV5OquF/spark-1.10.58-fabric.jar
 
 # Vanilla Permissions
-https://cdn.modrinth.com/data/fdZkP5Bb/versions/No5mDVrC/vanilla-permissions-0.2.2%2B1.20.2.jar
+https://cdn.modrinth.com/data/fdZkP5Bb/versions/spx7Hv3u/vanilla-permissions-0.2.3%2B1.21.jar
 
 ##################
 #                #
@@ -59,28 +59,28 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/No5mDVrC/vanilla-permissions-0.2
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/QjdzVjGq/BlueMap-3.20-fabric-1.20.jar
+#https://cdn.modrinth.com/data/swbUV1cr/versions/QjdzVjGq/BlueMap-3.20-fabric-1.20.jar
 
 # Let Me Despawn
-https://cdn.modrinth.com/data/vE2FN5qn/versions/qpC0XlcW/letmedespawn-fabric-1.20.x-1.2.0.jar
+#https://cdn.modrinth.com/data/vE2FN5qn/versions/qpC0XlcW/letmedespawn-fabric-1.20.x-1.2.0.jar
 
 # MiniMOTD
-https://cdn.modrinth.com/data/16vhQOQN/versions/M7WdzIda/minimotd-fabric-mc1.20.4-2.1.0.jar
+#https://cdn.modrinth.com/data/16vhQOQN/versions/M7WdzIda/minimotd-fabric-mc1.20.4-2.1.0.jar
 
 # Styled Chat
-https://cdn.modrinth.com/data/doqSKB0e/versions/hPPTz9OM/styled-chat-2.4.0%2B1.20.3.jar
+https://cdn.modrinth.com/data/doqSKB0e/versions/EoTTJkqS/styled-chat-2.6.0%2B1.21.jar
 
 # Styled Player List
-https://cdn.modrinth.com/data/DQIfKUHf/versions/jcLxMRaH/styledplayerlist-3.3.0%2B1.20.3.jar
+https://cdn.modrinth.com/data/DQIfKUHf/versions/THfvB4AJ/styledplayerlist-3.5.0%2B1.21.jar
 
 # Styled Nickames
-https://cdn.modrinth.com/data/DOk6Gcdi/versions/R7dIzguo/styled-nicknames-1.4.0%2B1.20.3.jar
+https://cdn.modrinth.com/data/DOk6Gcdi/versions/U9pXTyh2/styled-nicknames-1.6.0%2B1.21.jar
 
 # Server Tick
-https://cdn.modrinth.com/data/nEKRNLz9/versions/DrJ7grH7/servertick-mc1.20.2-1.9.jar
+#https://cdn.modrinth.com/data/nEKRNLz9/versions/DrJ7grH7/servertick-mc1.20.2-1.9.jar
 
 # /mods Command
 #https://cdn.modrinth.com/data/PExmWQV8/versions/1KLm0roo/mods-command-mc1.20.2-1.1.4.jar
 
 # Tweaks
-https://github.com/peaksmp/tweaks/releases/download/v1.0.11/tweaks-1.0.11.jar
+#https://github.com/peaksmp/tweaks/releases/download/v1.0.11/tweaks-1.0.11.jar
