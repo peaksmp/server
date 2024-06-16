@@ -20,10 +20,10 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-
 #https://cdn.modrinth.com/data/r0v8vy1s/versions/zrRsTCOk/alternate-current-mc1.20-1.7.0.jar
 
 # Lithium
-https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.21-0.12.5/lithium-fabric-mc1.21-0.12.5.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/OC4JOVBe/lithium-fabric-mc1.21-0.12.5.jar
 
 # FerriteCore
-#https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar
+https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar
 
 # Krypton
 #https://cdn.modrinth.com/data/fQEb0iXm/versions/bRcuOnao/krypton-0.2.6.jar
@@ -44,10 +44,10 @@ https://cdn.modrinth.com/data/fALzjamp/versions/nstsfdMu/Chunky-1.4.14.jar
 #https://cdn.modrinth.com/data/LVN9ygNV/versions/aeyvUBDY/ledger-1.2.10.jar
 
 # LuckPerms
-#https://cdn.modrinth.com/data/Vebnzrzj/versions/42RCP8I8/LuckPerms-Fabric-5.4.113.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/2RuZIzOq/LuckPerms-Fabric-5.4.133.jar
 
 # Spark
-#https://cdn.modrinth.com/data/l6YH9Als/versions/FeV5OquF/spark-1.10.58-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/KYGTUMOq/spark-1.10.73-fabric.jar
 
 # Vanilla Permissions
 https://cdn.modrinth.com/data/fdZkP5Bb/versions/spx7Hv3u/vanilla-permissions-0.2.3%2B1.21.jar
