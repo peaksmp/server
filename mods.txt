@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/HXzEJYgV/fabric-api-0.100.1%2B1.21.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/1cXs6RWI/fabric-api-0.100.3%2B1.21.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar
@@ -50,7 +50,7 @@ https://cdn.modrinth.com/data/Vebnzrzj/versions/2RuZIzOq/LuckPerms-Fabric-5.4.13
 https://cdn.modrinth.com/data/l6YH9Als/versions/KYGTUMOq/spark-1.10.73-fabric.jar
 
 # Vanilla Permissions
-https://cdn.modrinth.com/data/fdZkP5Bb/versions/spx7Hv3u/vanilla-permissions-0.2.3%2B1.21.jar
+https://cdn.discordapp.com/attachments/249739964940550144/1253084753243013140/vanilla-permissions-0.2.31.21.jar?ex=6674919e&is=6673401e&hm=62016f205730dd298b4fb49c0875a16d62015d3d010d5f7a46e192fa84941ebe&
 
 ##################
 #                #
@@ -59,7 +59,7 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/spx7Hv3u/vanilla-permissions-0.2
 ##################
 
 # Blue Map
-https://github.com/BlueMap-Minecraft/BlueMap/releases/download/v5.1/BlueMap-5.1-fabric.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/7qitCWhD/BlueMap-5.2-fabric.jar
 
 # Let Me Despawn
 https://cdn.modrinth.com/data/vE2FN5qn/versions/7OSOHbMe/letmedespawn-1.3.0.jar
@@ -75,9 +75,6 @@ https://cdn.modrinth.com/data/DQIfKUHf/versions/THfvB4AJ/styledplayerlist-3.5.0%
 
 # Styled Nickames
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/U9pXTyh2/styled-nicknames-1.6.0%2B1.21.jar
-
-# Server Tick
-#https://cdn.modrinth.com/data/nEKRNLz9/versions/DrJ7grH7/servertick-mc1.20.2-1.9.jar
 
 # /mods Command
 #https://cdn.modrinth.com/data/PExmWQV8/versions/1KLm0roo/mods-command-mc1.20.2-1.1.4.jar
