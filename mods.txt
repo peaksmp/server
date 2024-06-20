@@ -20,7 +20,7 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-
 #https://cdn.modrinth.com/data/r0v8vy1s/versions/zrRsTCOk/alternate-current-mc1.20-1.7.0.jar
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/OC4JOVBe/lithium-fabric-mc1.21-0.12.5.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/my7uONjU/lithium-fabric-mc1.21-0.12.7.jar
 
 # FerriteCore
 https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar
