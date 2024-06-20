@@ -41,7 +41,7 @@ https://github.com/gnembon/fabric-carpet/releases/download/1.4.147/fabric-carpet
 https://cdn.modrinth.com/data/fALzjamp/versions/nstsfdMu/Chunky-1.4.14.jar
 
 # Ledger
-#https://cdn.modrinth.com/data/LVN9ygNV/versions/aeyvUBDY/ledger-1.2.10.jar
+https://cdn.modrinth.com/data/LVN9ygNV/versions/mb29Srom/ledger-1.3.4.jar
 
 # LuckPerms
 https://cdn.modrinth.com/data/Vebnzrzj/versions/2RuZIzOq/LuckPerms-Fabric-5.4.133.jar
