@@ -26,7 +26,7 @@ https://cdn.modrinth.com/data/gvQqBUqZ/versions/my7uONjU/lithium-fabric-mc1.21-0
 https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar
 
 # Krypton
-#https://cdn.modrinth.com/data/fQEb0iXm/versions/bRcuOnao/krypton-0.2.6.jar
+https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar
 
 ##################
 #                #
@@ -50,7 +50,7 @@ https://cdn.modrinth.com/data/Vebnzrzj/versions/2RuZIzOq/LuckPerms-Fabric-5.4.13
 https://cdn.modrinth.com/data/l6YH9Als/versions/KYGTUMOq/spark-1.10.73-fabric.jar
 
 # Vanilla Permissions
-https://cdn.discordapp.com/attachments/249739964940550144/1253084753243013140/vanilla-permissions-0.2.31.21.jar?ex=6674919e&is=6673401e&hm=62016f205730dd298b4fb49c0875a16d62015d3d010d5f7a46e192fa84941ebe&
+https://m.sjh.at/vanilla-permissions-0.2.31.21.jar
 
 ##################
 #                #
