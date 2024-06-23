@@ -16,7 +16,7 @@
   "default": {
     "display_name": "${default}",
     "message_formats": {
-      "chat": "<gray><cmd:'/tell %player:name_unformatted% '><hover:'<gray>Click to message.\n\nDeaths: %player:statistic deaths%\nMob Kills: %player:statistic mob_kills%'>%player:displayname_visual%</hover></cmd><gray>: ${message}",
+      "chat": "<gray><suggest_command '/msg %player:name_unformatted% '><hover show_text '<gray>Click to message.\n\nDeaths: %player:statistic deaths%\nMob Kills: %player:statistic mob_kills%'>%player:displayname_visual%</hover></suggest_command><gray>: ${message}",
       "joined_the_game": "<dark_gray>[<c:#4bc957>+</c>] <gray>${player}",
       "joined_after_name_change": "<dark_gray>[<c:#4bc957>+</c>] <gray>${old_name} → ${player}",
       "joined_for_first_time": "<dark_gray>[<c:#4bc957>+</c>] <gray>${player} <rainbow>First join!</rainbow>",
@@ -27,8 +27,8 @@
       "advancement_goal": "<lang:chat.type.advancement.goal:'${player}':'${advancement}'>",
       "sent_team_chat": "<lang:'chat.type.team.sent':'<hover\\:\\'<lang\\:chat.type.team.hover>\\'><suggest_command\\:\\'/teammsg \\'>${team}':'${displayName}':'${message}'>",
       "received_team_chat": "<lang:'chat.type.team.text':'<hover\\:\\'<lang\\:chat.type.team.hover>\\'><suggest_command\\:\\'/teammsg \\'>${team}':'${displayName}':'${message}'>",
-      "sent_private_message": "<dark_gray>[<c:#2bb555>PM → ${receiver}</c>] <gray>${message}",
-      "received_private_message": "<dark_gray>[<c:#33ff70>PM ← ${sender}</c>] <gray>${message}",
+      "sent_private_message": "<dark_gray>[<c:#1ac7dd>You → ${receiver}</c>] <gray>${message}",
+      "received_private_message": "<dark_gray>[<c:#1ac7dd>${sender} → You</c>] <gray>${message}",
       "say_command": "[${player}] ${message}",
       "me_command": "<lang:'chat.type.emote':'${player}':'${message}'>",
       "pet_death": "${default_message}"
@@ -96,7 +96,7 @@
         "operator": 3
       },
       "message_formats": {
-        "chat": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray><cmd:'/tell %player:name_unformatted% '><hover:'<gray>Click to message.\n\nDeaths: %player:statistic deaths%\nMob Kills: %player:statistic mob_kills%'>%player:displayname_visual%</hover></cmd>: ${message}"
+        "chat": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray><cmd:'/msg %player:name_unformatted% '><hover:'<gray>Click to message.\n\nDeaths: %player:statistic deaths%\nMob Kills: %player:statistic mob_kills%'>%player:displayname_visual%</hover></cmd>: ${message}"
       },
       "formatting": {},
       "emoticons": {},

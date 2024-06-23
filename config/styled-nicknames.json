@@ -3,6 +3,7 @@
   "_comment": "Before changing anything, see https://github.com/Patbox/StyledNicknames#configuration",
   "allowByDefault": true,
   "nicknameFormat": "<r>${nickname}",
+  "nicknameFormatColor": "${nickname}",
   "maxLength": 32,
   "changeDisplayName": true,
   "changePlayerListName": false,
