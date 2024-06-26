@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/1cXs6RWI/fabric-api-0.100.3%2B1.21.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/oIVA3FbL/fabric-api-0.100.4%2B1.21.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar
@@ -71,7 +71,7 @@ https://cdn.modrinth.com/data/16vhQOQN/versions/4C2SmCNo/minimotd-fabric-mc1.21-
 https://cdn.modrinth.com/data/doqSKB0e/versions/EoTTJkqS/styled-chat-2.6.0%2B1.21.jar
 
 # Styled Player List
-https://cdn.modrinth.com/data/DQIfKUHf/versions/THfvB4AJ/styledplayerlist-3.5.0%2B1.21.jar
+https://cdn.modrinth.com/data/DQIfKUHf/versions/Ui7MOgqG/styledplayerlist-3.5.1%2B1.21.jar
 
 # Styled Nickames
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/U9pXTyh2/styled-nicknames-1.6.0%2B1.21.jar
