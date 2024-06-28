@@ -16,7 +16,7 @@
   "default": {
     "display_name": "${default}",
     "message_formats": {
-      "chat": "<gray><suggest_command '/msg %player:name_unformatted% '><hover show_text '<gray>Click to message.\n\nDeaths: %player:statistic deaths%\nMob Kills: %player:statistic mob_kills%'>%player:displayname_visual%</hover></suggest_command><gray>: ${message}",
+      "chat": "<hover show_text '<white>Deaths: %player:statistic deaths%\n<gray>Mob Kills: %player:statistic mob_kills%\n<white>Distance Sprinted: %player:statistic sprint_one_cm%\n<gray>Time Spent Online: %player:playtime%'>%player:displayname_visual%</hover><reset>: ${message}",
       "joined_the_game": "<dark_gray>[<c:#4bc957>+</c>] <gray>${player}",
       "joined_after_name_change": "<dark_gray>[<c:#4bc957>+</c>] <gray>${old_name} → ${player}",
       "joined_for_first_time": "<dark_gray>[<c:#4bc957>+</c>] <gray>${player} <rainbow>First join!</rainbow>",
@@ -96,7 +96,7 @@
         "operator": 3
       },
       "message_formats": {
-        "chat": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <gray><cmd:'/msg %player:name_unformatted% '><hover:'<gray>Click to message.\n\nDeaths: %player:statistic deaths%\nMob Kills: %player:statistic mob_kills%'>%player:displayname_visual%</hover></cmd>: ${message}"
+        "chat": "<dark_gray>[<gradient:#ff5c5c:#c92c2c>Admin</gradient>]</dark_gray> <reset><hover show_text '<white>Deaths: %player:statistic deaths%\n<gray>Mob Kills: %player:statistic mob_kills%\n<white>Distance Sprinted: %player:statistic sprint_one_cm%\n<gray>Time Spent Online: %player:playtime%'>%player:displayname_visual%</hover><reset>: ${message}"
       },
       "formatting": {},
       "emoticons": {},
