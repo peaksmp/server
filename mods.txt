@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/Y0cpssyN/fabric-api-0.100.6%2B1.21.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/vMQdA5QJ/fabric-api-0.100.7%2B1.21.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar
@@ -59,7 +59,7 @@ https://m.sjh.at/vanilla-permissions-0.2.31.21.jar
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/7qitCWhD/BlueMap-5.2-fabric.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/Zpzf0Xab/BlueMap-5.3-fabric.jar
 
 # Let Me Despawn
 https://cdn.modrinth.com/data/vE2FN5qn/versions/7OSOHbMe/letmedespawn-1.3.0.jar
