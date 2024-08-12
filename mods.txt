@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/vMQdA5QJ/fabric-api-0.100.7%2B1.21.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/bK6OgzFj/fabric-api-0.102.1%2B1.21.1.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar
@@ -20,7 +20,7 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-
 https://cdn.modrinth.com/data/r0v8vy1s/versions/fA9M0yW3/alternate-current-mc1.21-1.8.0.jar
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/my7uONjU/lithium-fabric-mc1.21-0.12.7.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/5szYtenV/lithium-fabric-mc1.21.1-0.13.0.jar
 
 # FerriteCore
 https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar
@@ -35,7 +35,7 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar
 ##################
 
 # Carpet
-https://github.com/gnembon/fabric-carpet/releases/download/1.4.147/fabric-carpet-1.21-1.4.147+v240613.jar
+#https://github.com/gnembon/fabric-carpet/releases/download/1.4.147/fabric-carpet-1.21-1.4.147+v240613.jar
 
 # Chunky
 https://cdn.modrinth.com/data/fALzjamp/versions/nstsfdMu/Chunky-1.4.14.jar
@@ -47,10 +47,10 @@ https://cdn.modrinth.com/data/LVN9ygNV/versions/mb29Srom/ledger-1.3.4.jar
 https://cdn.modrinth.com/data/Vebnzrzj/versions/2RuZIzOq/LuckPerms-Fabric-5.4.133.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/KYGTUMOq/spark-1.10.73-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/qTSaozEL/spark-1.10.97-fabric.jar
 
 # Vanilla Permissions
-https://m.sjh.at/vanilla-permissions-0.2.31.21.jar
+https://cdn.modrinth.com/data/fdZkP5Bb/versions/pDaHPTD2/vanilla-permissions-0.2.4%2B1.21.1.jar
 
 ##################
 #                #
@@ -62,7 +62,7 @@ https://m.sjh.at/vanilla-permissions-0.2.31.21.jar
 https://cdn.modrinth.com/data/swbUV1cr/versions/Zpzf0Xab/BlueMap-5.3-fabric.jar
 
 # Let Me Despawn
-https://cdn.modrinth.com/data/vE2FN5qn/versions/7OSOHbMe/letmedespawn-1.3.0.jar
+https://cdn.modrinth.com/data/vE2FN5qn/versions/BCokhlwI/letmedespawn-1.3.1.jar
 
 # MiniMOTD
 https://cdn.modrinth.com/data/16vhQOQN/versions/4C2SmCNo/minimotd-fabric-mc1.21-2.1.2.jar
@@ -73,11 +73,11 @@ https://cdn.modrinth.com/data/doqSKB0e/versions/EoTTJkqS/styled-chat-2.6.0%2B1.2
 # Styled Player List
 https://cdn.modrinth.com/data/DQIfKUHf/versions/Ui7MOgqG/styledplayerlist-3.5.1%2B1.21.jar
 
-# Styled Nickames
+# Styled Nicknames
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/U9pXTyh2/styled-nicknames-1.6.0%2B1.21.jar
 
 # /mods Command
 https://cdn.modrinth.com/data/PExmWQV8/versions/CSPwc34g/mods-command-mc1.21-1.1.7.jar
 
 # Tweaks
-https://github.com/peaksmp/tweaks/releases/download/v1.0.13/tweaks-1.0.13.jar
+https://github.com/peaksmp/tweaks/releases/download/v1.0.14/tweaks-1.0.14.jar
