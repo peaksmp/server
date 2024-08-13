@@ -44,7 +44,7 @@ https://cdn.modrinth.com/data/fALzjamp/versions/nstsfdMu/Chunky-1.4.14.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/mb29Srom/ledger-1.3.4.jar
 
 # LuckPerms
-https://cdn.modrinth.com/data/Vebnzrzj/versions/2RuZIzOq/LuckPerms-Fabric-5.4.133.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/oLykW1F8/LuckPerms-Fabric-5.4.139.jar
 
 # Spark
 https://cdn.modrinth.com/data/l6YH9Als/versions/qTSaozEL/spark-1.10.97-fabric.jar
