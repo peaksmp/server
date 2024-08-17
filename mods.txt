@@ -17,7 +17,7 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-
 #################
 
 # Alternate Current
-https://cdn.modrinth.com/data/r0v8vy1s/versions/fA9M0yW3/alternate-current-mc1.21-1.8.0.jar
+#https://cdn.modrinth.com/data/r0v8vy1s/versions/fA9M0yW3/alternate-current-mc1.21-1.8.0.jar
 
 # Lithium
 https://cdn.modrinth.com/data/gvQqBUqZ/versions/5szYtenV/lithium-fabric-mc1.21.1-0.13.0.jar
