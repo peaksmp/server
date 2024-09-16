@@ -5,10 +5,10 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/bK6OgzFj/fabric-api-0.102.1%2B1.21.1.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/qKPgBeHl/fabric-api-0.104.0%2B1.21.1.jar
 
 # Fabric Language Kotlin (Required by Ledger)
-https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar
+https://cdn.modrinth.com/data/Ha28R6CL/versions/FayzGq0c/fabric-language-kotlin-1.12.1%2Bkotlin.2.0.20.jar
 
 #################
 #               #
@@ -44,7 +44,7 @@ https://cdn.modrinth.com/data/fALzjamp/versions/nstsfdMu/Chunky-1.4.14.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/mb29Srom/ledger-1.3.4.jar
 
 # LuckPerms
-https://cdn.modrinth.com/data/Vebnzrzj/versions/oLykW1F8/LuckPerms-Fabric-5.4.139.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/l47d4ZWk/LuckPerms-Fabric-5.4.140.jar
 
 # Spark
 https://cdn.modrinth.com/data/l6YH9Als/versions/qTSaozEL/spark-1.10.97-fabric.jar
@@ -59,7 +59,7 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/pDaHPTD2/vanilla-permissions-0.2
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/Zpzf0Xab/BlueMap-5.3-fabric.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/Ysj3eVYx/bluemap-5.4-fabric.jar
 
 # Let Me Despawn
 https://cdn.modrinth.com/data/vE2FN5qn/versions/BCokhlwI/letmedespawn-1.3.1.jar
