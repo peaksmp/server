@@ -12,12 +12,13 @@ services:
     environment:
       EULA: true
       TYPE: 'FABRIC'
-      VERSION: '1.21.1'
+      VERSION: '1.21.3'
       MEMORY: '6G'
       MAX_PLAYERS: 64
       VIEW_DISTANCE: 12
       SIMULATION_DISTANCE: 8
       ENTITY_BROADCAST_RANGE_PERCENTAGE: 150
+      PAUSE_WHEN_EMPTY_SECONDS: 60
       DIFFICULTY: 'hard'
       SPAWN_PROTECTION: 0
       ENABLE_RCON: true
@@ -29,8 +30,7 @@ services:
       MOTD: "                             §b§lPeak\n             §7⚔  §oTricky Trials awaits!  §7⚔" # Needs double quotes for '\n' to work
       ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
-      #VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
-      VANILLATWEAKS_FILE: '/extras/crafting-tweaks.json'
+      VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
       JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
       JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
     volumes:
