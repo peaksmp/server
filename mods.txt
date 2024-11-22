@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/MawoBGbv/fabric-api-0.107.3%2B1.21.3.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/Xhw2LuSh/fabric-api-0.109.0%2B1.21.3.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar
@@ -44,7 +44,7 @@ https://cdn.modrinth.com/data/LVN9ygNV/versions/rFhmujrA/ledger-1.3.6.jar
 https://cdn.modrinth.com/data/Vebnzrzj/versions/S8033hpf/LuckPerms-Fabric-5.4.145.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/D4nCQOay/spark-1.10.115-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/rExumjPo/spark-1.10.119-fabric.jar
 
 # Vanilla Permissions
 https://cdn.modrinth.com/data/fdZkP5Bb/versions/7awQNHzw/vanilla-permissions-0.2.4%2B1.21.3.jar
@@ -56,7 +56,7 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/7awQNHzw/vanilla-permissions-0.2
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/Ysj3eVYx/bluemap-5.4-fabric.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/Mvle7bPy/bluemap-5.5-fabric.jar
 
 # MiniMOTD
 https://cdn.modrinth.com/data/16vhQOQN/versions/9tSbyvQJ/minimotd-fabric-mc1.21.3-2.1.4.jar
