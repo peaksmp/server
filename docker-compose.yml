@@ -26,7 +26,6 @@ services:
       ENFORCE_SECURE_PROFILE: true
       OVERRIDE_SERVER_PROPERTIES: true
       REMOVE_OLD_VANILLATWEAKS: true
-      INITIAL_ENABLED_PACKS: bundle
       MOTD: "                             §b§lPeak\n             §7⚔  §oTricky Trials awaits!  §7⚔" # Needs double quotes for '\n' to work
       ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
