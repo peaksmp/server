@@ -26,8 +26,7 @@ services:
       ENFORCE_SECURE_PROFILE: true
       OVERRIDE_SERVER_PROPERTIES: true
       REMOVE_OLD_VANILLATWEAKS: true
-      INITIAL_ENABLED_PACKS: bundle
-      MOTD: "                             §b§lPeak\n             §7⚔  §oTricky Trials awaits!  §7⚔" # Needs double quotes for '\n' to work
+      MOTD: "                             §4§lPeak\n             §7⚔  §oDeath Swap awaits!  §7⚔" # Needs double quotes for '\n' to work
       ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
       VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
@@ -43,29 +42,29 @@ services:
     restart: unless-stopped
     tty: true
     stdin_open: true
-  backups:
-    image: 'itzg/mc-backup'
-    hostname: backups
-    container_name: backups
-    environment:
-        SRC_DIR: '/data'
-        RCON_HOST: minecraft
-        RCON_PORT: 25575
-        RCON_RETRIES: 10
-        RCON_RETRY_INTERVAL: 60s
-        BACKUP_NAME: 'peak'
-        RESTIC_ADDITIONAL_TAGS: 'minecraft server'
-        EXCLUDES: '*.jar,cache,bluemap,journeymap,libraries,.fabric,versions'
-        BACKUP_METHOD: restic
-        BACKUP_INTERVAL: 1d
-        PAUSE_IF_NO_PLAYERS: true
-        PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
-    volumes:
-      - ./minecraft:/data:ro
-      - ./backups:/backups
-    env_file: .env.secrets
-    depends_on:
-        - 'minecraft'
+#  backups:
+#    image: 'itzg/mc-backup'
+#    hostname: backups
+#    container_name: backups
+#    environment:
+#        SRC_DIR: '/data'
+#        RCON_HOST: minecraft
+#        RCON_PORT: 25575
+#        RCON_RETRIES: 10
+#        RCON_RETRY_INTERVAL: 60s
+#        BACKUP_NAME: 'peak'
+#        RESTIC_ADDITIONAL_TAGS: 'minecraft server'
+#        EXCLUDES: '*.jar,cache,bluemap,journeymap,libraries,.fabric,versions'
+#        BACKUP_METHOD: restic
+#        BACKUP_INTERVAL: 1d
+#        PAUSE_IF_NO_PLAYERS: true
+#        PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
+#    volumes:
+#      - ./minecraft:/data:ro
+#      - ./backups:/backups
+#    env_file: .env.secrets
+#    depends_on:
+#        - 'minecraft'
   website:
     image: 'ghcr.io/peaksmp/website:latest'
     hostname: website

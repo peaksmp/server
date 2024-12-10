@@ -55,6 +55,9 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/7awQNHzw/vanilla-permissions-0.2
 #                #
 ##################
 
+# Death Swap
+https://cdn.modrinth.com/data/tDER9MJ9/versions/WI7QRSAN/death_swap-1.5.jar
+
 # Blue Map
 https://cdn.modrinth.com/data/swbUV1cr/versions/Mvle7bPy/bluemap-5.5-fabric.jar
 
