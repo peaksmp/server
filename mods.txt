@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/KEv54FjE/fabric-api-0.111.0%2B1.21.4.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/8FAH9fuR/fabric-api-0.114.2%2B1.21.4.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar
@@ -59,7 +59,7 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/7awQNHzw/vanilla-permissions-0.2
 https://cdn.modrinth.com/data/swbUV1cr/versions/Mvle7bPy/bluemap-5.5-fabric.jar
 
 # MiniMOTD
-#https://cdn.modrinth.com/data/16vhQOQN/versions/9tSbyvQJ/minimotd-fabric-mc1.21.3-2.1.4.jar
+https://cdn.modrinth.com/data/16vhQOQN/versions/FheuITlu/minimotd-fabric-mc1.21.4-2.1.5.jar
 
 # Styled Chat
 https://cdn.modrinth.com/data/doqSKB0e/versions/5jN44RUy/styled-chat-2.7.0%2B1.21.2.jar
@@ -71,7 +71,7 @@ https://cdn.modrinth.com/data/DQIfKUHf/versions/gyvLcVPF/styledplayerlist-3.6.0%
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/GeyvBGqo/styled-nicknames-1.7.0%2B1.21.2.jar
 
 # /mods Command
-#https://cdn.modrinth.com/data/PExmWQV8/versions/1F0YwdWN/mods-command-mc1.21.3-1.1.8.jar
+https://cdn.modrinth.com/data/PExmWQV8/versions/lhESUuqR/mods-command-mc1.21.4-1.1.9.jar
 
 # Tweaks
 https://github.com/peaksmp/tweaks/releases/download/v1.0.16/tweaks-1.0.16.jar
