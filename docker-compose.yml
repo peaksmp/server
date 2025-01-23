@@ -6,9 +6,10 @@ services:
     cap_add:
       - "SYS_ADMIN"
     ports:
-      - 25565:25565 # Minecraft
-      - 25575:25575 # Rcon
-      - 8100:8100   # Blue Map
+      - 25565:25565     # Minecraft
+      - 25575:25575     # Rcon
+      - 8100:8100       # Blue Map
+      - 24454:24454/udp # Simple Voice Chat
     environment:
       EULA: true
       TYPE: 'FABRIC'
