@@ -24,9 +24,9 @@ maxRange = 100
 
 [color]
 # Colors in hex format
-primary = "#009688"
+primary = "#000000"
 primaryVariant = "#52c7b8"
-secondary = "#1e88e5"
+secondary = "#55FFFF"
 secondaryVariant = "#6ab7ff"
 light = "#c5d6f0"
 
