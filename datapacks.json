@@ -2,12 +2,15 @@
   "type": "datapacks",
   "version": "1.21",
   "packs": {
-    "survival": [
+    "Convenience": [
       "fast leaf decay"
     ],
-    "items": [
+    "Decorative/Cosmetic": [
       "player head drops",
       "more mob heads"
+    ],
+    "Teleport Commands": [
+      "tpa"
     ]
   }
 }
