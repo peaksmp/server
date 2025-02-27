@@ -59,7 +59,7 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/7awQNHzw/vanilla-permissions-0.2
 https://cdn.modrinth.com/data/swbUV1cr/versions/Dr2hvJBc/bluemap-5.7-fabric.jar
 
 # Simple Voice Chat
-https://cdn.modrinth.com/data/9eGKb6K1/versions/4Zzq92HE/voicechat-fabric-1.21.4-2.5.27.jar
+https://cdn.modrinth.com/data/9eGKb6K1/versions/DWQCr1uB/voicechat-fabric-1.21.4-2.5.28.jar
 
 # MiniMOTD
 https://cdn.modrinth.com/data/16vhQOQN/versions/FheuITlu/minimotd-fabric-mc1.21.4-2.1.5.jar
