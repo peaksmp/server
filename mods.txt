@@ -59,7 +59,7 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/7awQNHzw/vanilla-permissions-0.2
 https://cdn.modrinth.com/data/swbUV1cr/versions/Dr2hvJBc/bluemap-5.7-fabric.jar
 
 # Distant Horizons
-https://cdn.modrinth.com/data/uCdwusMi/versions/DTFSZmMF/DistantHorizons-neoforge-fabric-2.3.0-b-1.21.4.jar
+https://github.com/peaksmp/server/raw/refs/heads/main/temporary-resources/DistantHorizons-fabric-2.3.1-b-dev-1.21.4.jar
 
 # Simple Voice Chat
 https://cdn.modrinth.com/data/9eGKb6K1/versions/DWQCr1uB/voicechat-fabric-1.21.4-2.5.28.jar
