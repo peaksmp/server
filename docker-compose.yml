@@ -14,7 +14,7 @@ services:
       EULA: true
       TYPE: 'FABRIC'
       VERSION: '1.21.4'
-      MEMORY: '6G'
+      MEMORY: '12G'
       MAX_PLAYERS: 64
       VIEW_DISTANCE: 12
       SIMULATION_DISTANCE: 8
