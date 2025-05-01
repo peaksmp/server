@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/FZ4q3wQK/fabric-api-0.119.9%2B1.21.5.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/hBmLTbVB/fabric-api-0.121.0%2B1.21.5.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar
@@ -47,7 +47,7 @@ https://cdn.modrinth.com/data/6DdCzpTL/versions/vI2FSU8U/mclogs-fabric-1.21.5-3.
 https://cdn.modrinth.com/data/l6YH9Als/versions/NURCAL12/spark-1.10.128-fabric.jar
 
 # Vanilla Permissions
-https://cdn.modrinth.com/data/fdZkP5Bb/versions/SAwDLirG/vanilla-permissions-0.2.5%2B1.21.5-rc1.jar
+https://cdn.modrinth.com/data/fdZkP5Bb/versions/Vq0h7noe/vanilla-permissions-0.2.5%2B1.21.5.jar
 
 ##################
 #                #
@@ -65,7 +65,7 @@ https://cdn.modrinth.com/data/uCdwusMi/versions/Mt9bDAs6/DistantHorizons-neoforg
 https://cdn.modrinth.com/data/9eGKb6K1/versions/8NDcr1mc/voicechat-fabric-1.21.5-2.5.28.jar
 
 # MiniMOTD
-#https://cdn.modrinth.com/data/16vhQOQN/versions/FheuITlu/minimotd-fabric-mc1.21.4-2.1.5.jar
+https://cdn.modrinth.com/data/16vhQOQN/versions/iWRGwfYv/minimotd-fabric-mc1.21.5-2.1.6.jar
 
 # Styled Chat
 https://cdn.modrinth.com/data/doqSKB0e/versions/E1RdcKyb/styled-chat-2.8.0%2B1.21.5.jar
@@ -77,7 +77,7 @@ https://cdn.modrinth.com/data/DQIfKUHf/versions/VQ4VhTvm/styledplayerlist-3.7.0%
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/HCbWj9Bk/styled-nicknames-1.8.0%2B1.21.5.jar
 
 # /mods Command
-#https://cdn.modrinth.com/data/PExmWQV8/versions/lhESUuqR/mods-command-mc1.21.4-1.1.9.jar
+https://cdn.modrinth.com/data/PExmWQV8/versions/bub7AUSo/mods-command-mc1.21.5-1.1.10.jar
 
 # Tweaks
 #https://github.com/peaksmp/tweaks/releases/download/v1.0.16/tweaks-1.0.16.jar
