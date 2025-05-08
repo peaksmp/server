@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/hBmLTbVB/fabric-api-0.121.0%2B1.21.5.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/7KiXkbYC/fabric-api-0.122.0%2B1.21.5.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar
@@ -47,7 +47,7 @@ https://cdn.modrinth.com/data/6DdCzpTL/versions/vI2FSU8U/mclogs-fabric-1.21.5-3.
 https://cdn.modrinth.com/data/l6YH9Als/versions/NURCAL12/spark-1.10.128-fabric.jar
 
 # Vanilla Permissions
-https://cdn.modrinth.com/data/fdZkP5Bb/versions/Vq0h7noe/vanilla-permissions-0.2.5%2B1.21.5.jar
+https://cdn.modrinth.com/data/fdZkP5Bb/versions/vIVK1mCS/vanilla-permissions-0.2.6%2B1.21.5.jar
 
 ##################
 #                #
