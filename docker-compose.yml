@@ -13,7 +13,7 @@ services:
     environment:
       EULA: true
       TYPE: 'FABRIC'
-      VERSION: '1.21.5'
+      VERSION: '1.21.6'
       MEMORY: '12G'
       MAX_PLAYERS: 64
       VIEW_DISTANCE: 12
@@ -28,7 +28,7 @@ services:
       OVERRIDE_SERVER_PROPERTIES: true
       REMOVE_OLD_VANILLATWEAKS: true
       SEED: "6942042069"
-#      MOTD: "                             §b§lPeak\n             §oMATT GO BENCH" # Needs double quotes for '\n' to work
+      MOTD: "                             §b§lPeak\n             §oChase the skies!" # Needs double quotes for '\n' to work
       ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
       VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
