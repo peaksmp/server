@@ -5,10 +5,10 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/bQZpGIz0/fabric-api-0.119.2%2B1.21.4.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/b2dnY6PN/fabric-api-0.128.0%2B1.21.6.jar
 
 # Fabric Language Kotlin (Required by Ledger)
-https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar
+https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4%2Bkotlin.2.2.0.jar
 
 #################
 #               #
@@ -17,16 +17,16 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-
 #################
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/HtiXknlD/lithium-fabric-0.15.0%2Bmc1.21.4.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/XWGBHYcB/lithium-fabric-0.17.0%2Bmc1.21.6.jar
 
 # Moonrise
-#https://cdn.modrinth.com/data/KOHu7RCS/versions/6Dgh9jQx/Moonrise-Fabric-0.2.0-beta.9%2Bac0c7de.jar
+#https://cdn.modrinth.com/data/KOHu7RCS/versions/zxeCwQuS/Moonrise-Fabric-0.4.0-beta.2%2B694dab6.jar
 
 # FerriteCore
-https://cdn.modrinth.com/data/uXXizFIs/versions/IPM0JlHd/ferritecore-7.1.1-fabric.jar
+https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar
 
 # Krypton
-https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar
+https://cdn.modrinth.com/data/fQEb0iXm/versions/neW85eWt/krypton-0.2.9.jar
 
 ##################
 #                #
@@ -34,23 +34,20 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar
 #                #
 ##################
 
-# Chunky
-https://cdn.modrinth.com/data/fALzjamp/versions/VkAgASL1/Chunky-Fabric-1.4.27.jar
-
 # Ledger
-https://cdn.modrinth.com/data/LVN9ygNV/versions/pzDwE16E/ledger-1.3.7-fix.jar
+https://cdn.modrinth.com/data/LVN9ygNV/versions/f3h7no4G/ledger-1.3.12.jar
 
 # LuckPerms
-https://cdn.modrinth.com/data/Vebnzrzj/versions/6h9SnsZu/LuckPerms-Fabric-5.4.150.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/D0SyBQN7/LuckPerms-Fabric-5.5.8.jar
 
 # mclo.gs
-https://cdn.modrinth.com/data/6DdCzpTL/versions/472DhQel/mclogs-fabric-1.21.4-3.0.6.jar
+https://cdn.modrinth.com/data/6DdCzpTL/versions/ueBllwVs/mclogs-fabric-1.21.6-3.0.8.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/X2sypdTL/spark-1.10.121-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/qW2mPW6y/spark-1.10.139-fabric.jar
 
 # Vanilla Permissions
-https://cdn.modrinth.com/data/fdZkP5Bb/versions/7awQNHzw/vanilla-permissions-0.2.4%2B1.21.3.jar
+https://cdn.modrinth.com/data/fdZkP5Bb/versions/xKC3g1t3/vanilla-permissions-0.2.10%2B1.21.6.jar
 
 ##################
 #                #
@@ -59,31 +56,31 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/7awQNHzw/vanilla-permissions-0.2
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/Dr2hvJBc/bluemap-5.7-fabric.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/fB6f4XRA/bluemap-5.9-fabric.jar
 
 # Distant Horizons
-https://cdn.modrinth.com/data/uCdwusMi/versions/94McsAoL/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.4.jar
+#https://cdn.modrinth.com/data/uCdwusMi/versions/Mt9bDAs6/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.5.jar
 
 # Simple Voice Chat
-https://cdn.modrinth.com/data/9eGKb6K1/versions/DWQCr1uB/voicechat-fabric-1.21.4-2.5.28.jar
+https://cdn.modrinth.com/data/9eGKb6K1/versions/ia7TcI0t/voicechat-fabric-1.21.6-2.5.31.jar
 
 # MiniMOTD
-https://cdn.modrinth.com/data/16vhQOQN/versions/FheuITlu/minimotd-fabric-mc1.21.4-2.1.5.jar
+#https://cdn.modrinth.com/data/16vhQOQN/versions/iWRGwfYv/minimotd-fabric-mc1.21.5-2.1.6.jar
 
 # Styled Chat
-https://cdn.modrinth.com/data/doqSKB0e/versions/5jN44RUy/styled-chat-2.7.0%2B1.21.2.jar
+https://cdn.modrinth.com/data/doqSKB0e/versions/4iEiOcnO/styled-chat-2.9.0%2B1.21.6.jar
 
 # Styled Player List
-https://cdn.modrinth.com/data/DQIfKUHf/versions/gyvLcVPF/styledplayerlist-3.6.0%2B1.21.2.jar
+https://cdn.modrinth.com/data/DQIfKUHf/versions/roni2qRY/styledplayerlist-3.8.0%2B1.21.6.jar
 
 # Styled Nicknames
-https://cdn.modrinth.com/data/DOk6Gcdi/versions/GeyvBGqo/styled-nicknames-1.7.0%2B1.21.2.jar
+https://cdn.modrinth.com/data/DOk6Gcdi/versions/dTTfwiNi/styled-nicknames-1.9.0%2B1.21.6.jar
 
 # /mods Command
-https://cdn.modrinth.com/data/PExmWQV8/versions/lhESUuqR/mods-command-mc1.21.4-1.1.9.jar
+#https://cdn.modrinth.com/data/PExmWQV8/versions/bub7AUSo/mods-command-mc1.21.5-1.1.10.jar
 
 # Tweaks
-https://github.com/peaksmp/tweaks/releases/download/v1.0.16/tweaks-1.0.16.jar
+https://github.com/peaksmp/tweaks/releases/download/1.0.18/tweaks-1.0.18.jar
 
 ##################
 #                #
@@ -92,4 +89,4 @@ https://github.com/peaksmp/tweaks/releases/download/v1.0.16/tweaks-1.0.16.jar
 ##################
 
 # Dungeons and Taverns
-https://cdn.modrinth.com/data/tpehi7ww/versions/bjFTHs6U/dungeons-and-taverns-v4.6.3.jar
+#https://cdn.modrinth.com/data/tpehi7ww/versions/xuwRmYo8/dungeons-and-taverns-v4.7.jar

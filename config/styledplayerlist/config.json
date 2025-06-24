@@ -10,6 +10,8 @@
   "player": {
     "modify_name": true,
     "modify_right_text": false,
+    "modify_list_order": false,
+    "modify_visibility": false,
     "passthrough": false,
     "hidden": false,
     "format": "<reset>%player:displayname_visual%",
