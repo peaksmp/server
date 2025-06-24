@@ -89,4 +89,4 @@ https://github.com/peaksmp/tweaks/releases/download/1.0.18/tweaks-1.0.18.jar
 ##################
 
 # Dungeons and Taverns
-#https://cdn.modrinth.com/data/tpehi7ww/versions/xuwRmYo8/dungeons-and-taverns-v4.7.jar
+https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar
