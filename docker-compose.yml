@@ -4,7 +4,7 @@ services:
     hostname: minecraft
     container_name: minecraft
     cap_add:
-      - "SYS_ADMIN"
+      - "SYS_ADMIN" # TODO try removing?
     ports:
       - 25565:25565     # Minecraft
       - 25575:25575     # Rcon
@@ -35,35 +35,36 @@ services:
       JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
       JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
     volumes:
-      - ./minecraft:/data
+      - ../data:/data
       - ./mods.txt:/extras/mods.txt:ro
       - ./datapacks.json:/extras/datapacks.json:ro
       - ./crafting-tweaks.json:/extras/crafting-tweaks.json:ro
       - ./config:/config
     env_file: .env.secrets
     restart: unless-stopped
-    tty: true
+    tty: true               # Are tty and stdin really needed?
     stdin_open: true
   backups:
     image: 'itzg/mc-backup'
     hostname: backups
     container_name: backups
     environment:
+        BACKUP_INTERVAL: 1d
+        BACKUP_METHOD: restic
+        BACKUP_NAME: 'peak'
+        BACKUP_ON_STARTUP: false
         SRC_DIR: '/data'
         RCON_HOST: minecraft
         RCON_PORT: 25575
         RCON_RETRIES: 10
         RCON_RETRY_INTERVAL: 60s
-        BACKUP_NAME: 'peak'
         RESTIC_ADDITIONAL_TAGS: 'minecraft server'
         EXCLUDES: '*.jar,cache,bluemap,journeymap,libraries,.fabric,versions,DistantHorizons.sqlite,DistantHorizons.sqlite-shm,DistantHorizons.sqlite-wal,ledger.sqlite'
-        BACKUP_METHOD: restic
-        BACKUP_INTERVAL: 1d
         PAUSE_IF_NO_PLAYERS: true
         PRUNE_RESTIC_RETENTION: '--keep-daily 4 --keep-weekly 12'
     volumes:
-      - ./minecraft:/data:ro
-      - ./backups:/backups
+      - ../data:/data:ro
+      - ../backups:/backups
     env_file: .env.secrets
     depends_on:
         - 'minecraft'
