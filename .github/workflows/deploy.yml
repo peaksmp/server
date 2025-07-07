@@ -22,6 +22,5 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
           key: ${{ secrets.KEY }}
-          debug: true
           envs: REPOSITORY_URL,SERVER_ROOT
           script_path: scripts/deploy.sh
