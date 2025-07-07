@@ -26,7 +26,7 @@ services:
       OVERRIDE_SERVER_PROPERTIES: true
       REMOVE_OLD_VANILLATWEAKS: true
       SEED: "5435404126354230343"
-      MOTD: "                             §b§lPeak\n                 §7§oChase the skies!" # Needs double quotes for '\n' to work
+      MOTD: "                             §b§lPeak\n                  §7§oChase the skies!" # Needs double quotes for '\n' to work
       ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
       VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
