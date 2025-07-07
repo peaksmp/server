@@ -1,11 +1,7 @@
-name: Deployment
-
-concurrency: production
+name: Deploy
 
 on:
   workflow_dispatch:
-  release:
-    types: [published]
 
 jobs:
   deployment:
@@ -13,54 +9,14 @@ jobs:
     environment: production
     steps:
       - name: Deploy to production
-        uses: appleboy/ssh-action@master
+        uses: appleboy/ssh-action@v1
         env:
-          GITHUB_URL: '${{ github.server_url }}/${{ github.repository }}'
-          BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
-          DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
-          FOLDER_NAME: server
+          REPOSITORY_URL: '${{ github.server_url }}/${{ github.repository }}'
+          SERVER_ROOT: ${{ secrets.SERVER_ROOT }}
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
           key: ${{ secrets.KEY }}
-          port: ${{ secrets.PORT }}
           debug: true
-          envs: GITHUB_URL,BOT_TOKEN,DEPLOY_PATH,FOLDER_NAME
-          script: |
-            cd $DEPLOY_PATH
-            if [ -d "$DEPLOY_PATH/$FOLDER_NAME" ]
-            then
-              cd $FOLDER_NAME
-              docker compose down
-              rm fabric-*.jar
-              git fetch --all
-              git reset --hard origin/main
-            else
-              git clone $GITHUB_SERVER_URL/$GITHUB_REPOSITORY $FOLDER_NAME
-              cd $FOLDER_NAME
-            fi
-            dasel put string -f config/Discord-Integration.toml -s 'general.botToken' -v $BOT_TOKEN
-            docker compose pull
-            docker compose up -d
-      - name: Get release info
-        id: release_info
-        uses: jossef/action-latest-release-info@v1.2.0
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-      - name: Post release notes to Discord
-        uses: LeGitHubDeTai/github-to-discord@main
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          DISCORD_USERNAME: Axolotl
-          DISCORD_AVATAR: https://cdn.discordapp.com/attachments/914670849204822046/923383823155200110/axolotl.png
-          MESSAGE_URL: ${{ steps.release_info.html_url }}
-          MESSAGE_TITLE: ${{ steps.release_info.tag_name }}
-          MESSAGE_DESCRIPTION: 'Release ${{ steps.release_info.name }}'
-          MESSAGE_COLOR: 0x5AC0DE
-          SECTION_NAME: "Changes"
-          AUTHOR_NAME: "Peak"
-          AUTHOR_URL: "https://peaksmp.org"
-          FOOTER_TEXT: "Peak"
-          FOOTER_URL: "https://peaksmp.org"
-          AUTHOR_AVATAR: "https://cdn.discordapp.com/attachments/914670849204822046/923360021516025926/peak-discord.png"
-
+          envs: REPOSITORY_URL,SERVER_ROOT
+          script_file: scripts/deploy.sh
