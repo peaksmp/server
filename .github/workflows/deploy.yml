@@ -19,4 +19,4 @@ jobs:
           key: ${{ secrets.KEY }}
           debug: true
           envs: REPOSITORY_URL,SERVER_ROOT
-          script_file: scripts/deploy.sh
+          script_path: scripts/deploy.sh
