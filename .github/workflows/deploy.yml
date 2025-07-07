@@ -10,8 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-        sparse-checkout: |
-          scripts
+          sparse-checkout: |
+            scripts
 
       - name: Deploy to production
         uses: appleboy/ssh-action@v1
