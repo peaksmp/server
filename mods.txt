@@ -90,3 +90,6 @@ https://github.com/peaksmp/tweaks/releases/download/v1.0.19/tweaks-1.0.19.jar
 
 # Dungeons and Taverns
 https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar
+
+# Trade Cycling
+https://cdn.modrinth.com/data/qpPoAL6m/versions/dRyLEQiG/trade-cycling-fabric-1.21.7-1.0.19.jar
