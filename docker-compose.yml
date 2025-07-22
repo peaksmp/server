@@ -11,7 +11,7 @@ services:
     environment:
       EULA: true
       TYPE: 'FABRIC'
-      VERSION: '1.21.7'
+      VERSION: '1.21.8'
       MEMORY: '12G'
       MAX_PLAYERS: 64
       VIEW_DISTANCE: 12
@@ -30,6 +30,7 @@ services:
       ICON: 'https://github.com/peaksmp/server/blob/main/config/MiniMOTD/icons/peak.png?raw=true'
       MODS_FILE: '/extras/mods.txt'
       DATAPACKS: 'https://cdn.modrinth.com/data/VoVJ47kN/versions/cFFa5Axs/BlazeandCave%27s%20Advancements%20Pack%201.19.1.zip'
+      REMOVE_OLD_DATAPACKS: true
       VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
       JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
       JVM_DD_OPTS: '-Dfile.encoding=UTF-8'

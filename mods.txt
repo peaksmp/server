@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/JntuF9Ul/fabric-api-0.129.0%2B1.21.7.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/X2hTodix/fabric-api-0.129.0%2B1.21.8.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4%2Bkotlin.2.2.0.jar
@@ -17,7 +17,7 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-
 #################
 
 # Lithium
-https://cdn.modrinth.com/data/gvQqBUqZ/versions/77EtzYFA/lithium-fabric-0.18.0%2Bmc1.21.7.jar
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/pDfTqezk/lithium-fabric-0.18.0%2Bmc1.21.8.jar
 
 # Moonrise
 #https://cdn.modrinth.com/data/KOHu7RCS/versions/zxeCwQuS/Moonrise-Fabric-0.4.0-beta.2%2B694dab6.jar
@@ -38,13 +38,13 @@ https://cdn.modrinth.com/data/fQEb0iXm/versions/neW85eWt/krypton-0.2.9.jar
 https://cdn.modrinth.com/data/LVN9ygNV/versions/f3h7no4G/ledger-1.3.12.jar
 
 # LuckPerms
-https://cdn.modrinth.com/data/Vebnzrzj/versions/WBIpgXZQ/LuckPerms-Fabric-5.5.9.jar
+https://cdn.modrinth.com/data/Vebnzrzj/versions/uStOaYyZ/LuckPerms-Fabric-5.5.10.jar
 
 # mclo.gs
 https://cdn.modrinth.com/data/6DdCzpTL/versions/ueBllwVs/mclogs-fabric-1.21.6-3.0.8.jar
 
 # Spark
-https://cdn.modrinth.com/data/l6YH9Als/versions/wPYvarTa/spark-1.10.140-fabric.jar
+https://cdn.modrinth.com/data/l6YH9Als/versions/3KCl7Vx0/spark-1.10.142-fabric.jar
 
 # Vanilla Permissions
 https://cdn.modrinth.com/data/fdZkP5Bb/versions/wN1MEhme/vanilla-permissions-0.2.11%2B1.21.7.jar
@@ -59,13 +59,13 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/wN1MEhme/vanilla-permissions-0.2
 https://cdn.modrinth.com/data/swbUV1cr/versions/fB6f4XRA/bluemap-5.9-fabric.jar
 
 # Distant Horizons
-https://cdn.modrinth.com/data/uCdwusMi/versions/2mY04ehi/DistantHorizons-2.3.3-b-1.21.7-fabric-neoforge.jar
+https://cdn.modrinth.com/data/uCdwusMi/versions/9yaYzpcr/DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar
 
 # Simple Voice Chat
 https://cdn.modrinth.com/data/9eGKb6K1/versions/ia7TcI0t/voicechat-fabric-1.21.6-2.5.31.jar
 
 # MiniMOTD
-#https://cdn.modrinth.com/data/16vhQOQN/versions/iWRGwfYv/minimotd-fabric-mc1.21.5-2.1.6.jar
+https://cdn.modrinth.com/data/16vhQOQN/versions/ddevSj5D/minimotd-fabric-mc1.21.8-2.1.7.jar
 
 # Styled Chat
 https://cdn.modrinth.com/data/doqSKB0e/versions/4iEiOcnO/styled-chat-2.9.0%2B1.21.6.jar
@@ -77,10 +77,10 @@ https://cdn.modrinth.com/data/DQIfKUHf/versions/roni2qRY/styledplayerlist-3.8.0%
 https://cdn.modrinth.com/data/DOk6Gcdi/versions/dTTfwiNi/styled-nicknames-1.9.0%2B1.21.6.jar
 
 # /mods Command
-#https://cdn.modrinth.com/data/PExmWQV8/versions/bub7AUSo/mods-command-mc1.21.5-1.1.10.jar
+https://cdn.modrinth.com/data/PExmWQV8/versions/Bu1RM4Ll/mods-command-mc1.21.8-1.1.11.jar
 
 # Tweaks
-https://github.com/peaksmp/tweaks/releases/download/v1.0.19/tweaks-1.0.19.jar
+https://github.com/peaksmp/tweaks/releases/download/v1.0.20/tweaks-1.0.20.jar
 
 ##################
 #                #
@@ -92,4 +92,4 @@ https://github.com/peaksmp/tweaks/releases/download/v1.0.19/tweaks-1.0.19.jar
 https://cdn.modrinth.com/data/tpehi7ww/versions/upyHsGeL/dungeons-and-taverns-v4.7.3.jar
 
 # Trade Cycling
-https://cdn.modrinth.com/data/qpPoAL6m/versions/dRyLEQiG/trade-cycling-fabric-1.21.7-1.0.19.jar
+https://cdn.modrinth.com/data/qpPoAL6m/versions/xpf5V7wi/trade-cycling-fabric-1.21.8-1.0.19.jar
