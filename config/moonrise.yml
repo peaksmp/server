@@ -46,6 +46,10 @@ chunk-loading:
   # maximum rates at which the player chunk loader will attempt to load/generate/send chunks to
   # players. Actual resulting rates will depend on hardware.
   basic:
+    # The delay before chunks are unloaded around players once they leave their view distance.
+    # The Vanilla value is 0 ticks. Setting this value higher (i.e 5s) will allow pets to teleport
+    # to their owners when they teleport.
+    player-chunk-unload-delay: 0t
     # The maximum rate of chunks to generate for given player, per second. If this value is <= 0,
     # then there is no rate limit.
     player-max-gen-rate: -1.0
