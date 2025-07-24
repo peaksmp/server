@@ -56,7 +56,7 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/wN1MEhme/vanilla-permissions-0.2
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/fB6f4XRA/bluemap-5.9-fabric.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/e6RaDudD/bluemap-5.10-fabric.jar
 
 # Distant Horizons
 https://cdn.modrinth.com/data/uCdwusMi/versions/9yaYzpcr/DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar
