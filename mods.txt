@@ -68,7 +68,7 @@ https://cdn.modrinth.com/data/uCdwusMi/versions/9yaYzpcr/DistantHorizons-2.3.4-b
 https://cdn.modrinth.com/data/9eGKb6K1/versions/ia7TcI0t/voicechat-fabric-1.21.6-2.5.31.jar
 
 # MiniMOTD
-https://cdn.modrinth.com/data/16vhQOQN/versions/ddevSj5D/minimotd-fabric-mc1.21.8-2.1.7.jar
+https://cdn.modrinth.com/data/16vhQOQN/versions/NF3VfbCA/minimotd-fabric-mc1.21.8-2.1.8.jar
 
 # Styled Chat
 https://cdn.modrinth.com/data/doqSKB0e/versions/4iEiOcnO/styled-chat-2.9.0%2B1.21.6.jar

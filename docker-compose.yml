@@ -53,6 +53,7 @@ services:
         BACKUP_ON_STARTUP: false
         INITIAL_DELAY: 0
         PAUSE_IF_NO_PLAYERS: true
+        PLAYERS_ONLINE_CHECK_INTERVAL: '15m'
         SRC_DIR: '/data'
         RCON_HOST: minecraft
         RCON_PORT: 25575
