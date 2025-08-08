@@ -178,27 +178,27 @@ _version = 3
 		#
 		# If enabled, the mod will log information about the renderer OpenGL process. 
 		# This can be useful for debugging.
-		logRendererGLEvent = "LOG_ERROR_TO_CHAT_AND_INFO_TO_FILE"
+		logRendererGLEvent = "LOG_ERROR_TO_CHAT_AND_FILE"
 		#
 		# If enabled, the mod will log performance about the world generation process. 
 		# This can be useful for debugging.
-		logWorldGenPerformance = "LOG_ERROR_TO_CHAT_AND_INFO_TO_FILE"
+		logWorldGenPerformance = "LOG_ERROR_TO_CHAT_AND_FILE"
 		#
 		# If enabled, the mod will log information about network operations. 
 		# This can be useful for debugging.
-		logNetworkEvent = "LOG_ERROR_TO_CHAT_AND_INFO_TO_FILE"
+		logNetworkEvent = "LOG_ERROR_TO_CHAT_AND_FILE"
 		#
 		# If enabled, the mod will log information about the renderer buffer process. 
 		# This can be useful for debugging.
-		logRendererBufferEvent = "LOG_ERROR_TO_CHAT_AND_INFO_TO_FILE"
+		logRendererBufferEvent = "LOG_ERROR_TO_CHAT_AND_FILE"
 		#
 		# If enabled, the mod will log information about the world generation process. 
 		# This can be useful for debugging.
-		logWorldGenEvent = "LOG_ERROR_TO_CHAT_AND_INFO_TO_FILE"
+		logWorldGenEvent = "LOG_ERROR_TO_CHAT_AND_FILE"
 		#
 		# If enabled, the mod will log information about the world generation process. 
 		# This can be useful for debugging.
-		logWorldGenLoadEvent = "LOG_ERROR_TO_CHAT_AND_INFO_TO_FILE"
+		logWorldGenLoadEvent = "LOG_ERROR_TO_CHAT_AND_FILE"
 
 		[common.logging.warning]
 			#
