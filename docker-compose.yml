@@ -1,6 +1,6 @@
 services:
   minecraft:
-    image: 'itzg/minecraft-server'
+    image: 'itzg/minecraft-server:java21-graalvm'
     hostname: minecraft
     container_name: minecraft
     ports:
@@ -32,8 +32,8 @@ services:
       DATAPACKS: 'https://cdn.modrinth.com/data/VoVJ47kN/versions/cFFa5Axs/BlazeandCave%27s%20Advancements%20Pack%201.19.1.zip'
       REMOVE_OLD_DATAPACKS: true
       VANILLATWEAKS_FILE: '/extras/datapacks.json,/extras/crafting-tweaks.json'
-      JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UseShenandoahGC -XX:ShenandoahGCMode=iu -XX:+UseNUMA -XX:+AlwaysPreTouch -XX:+DisableExplicitGC'
-      JVM_DD_OPTS: '-Dfile.encoding=UTF-8'
+      JVM_XX_OPTS: '-XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:AllocatePrefetchStyle=3 -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI'
+      JVM_DD_OPTS: '-Dgraal.TuneInlinerExploration=1 -Dgraal.CompilerConfiguration=enterprise'
     volumes:
       - ../data:/data
       - ./mods.txt:/extras/mods.txt:ro
