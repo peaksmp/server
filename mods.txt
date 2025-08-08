@@ -5,7 +5,7 @@
 ##################
 
 # Fabric API
-https://cdn.modrinth.com/data/P7dR8mSH/versions/zhzhM2yQ/fabric-api-0.130.0%2B1.21.8.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/ax9iQEs0/fabric-api-0.131.0%2B1.21.8.jar
 
 # Fabric Language Kotlin (Required by Ledger)
 https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4%2Bkotlin.2.2.0.jar
@@ -20,7 +20,7 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-
 https://cdn.modrinth.com/data/gvQqBUqZ/versions/pDfTqezk/lithium-fabric-0.18.0%2Bmc1.21.8.jar
 
 # Moonrise
-#https://cdn.modrinth.com/data/KOHu7RCS/versions/zxeCwQuS/Moonrise-Fabric-0.4.0-beta.2%2B694dab6.jar
+#https://cdn.modrinth.com/data/KOHu7RCS/versions/70KoSrYl/Moonrise-Fabric-0.6.0-beta.1%2B45edfd7.jar
 
 # FerriteCore
 https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar
@@ -50,7 +50,7 @@ https://cdn.modrinth.com/data/6DdCzpTL/versions/ueBllwVs/mclogs-fabric-1.21.6-3.
 https://cdn.modrinth.com/data/l6YH9Als/versions/3KCl7Vx0/spark-1.10.142-fabric.jar
 
 # Vanilla Permissions
-https://cdn.modrinth.com/data/fdZkP5Bb/versions/wN1MEhme/vanilla-permissions-0.2.11%2B1.21.7.jar
+https://cdn.modrinth.com/data/fdZkP5Bb/versions/ahAB7Z2s/vanilla-permissions-0.3.0%2B1.21.8.jar
 
 ##################
 #                #
@@ -59,7 +59,7 @@ https://cdn.modrinth.com/data/fdZkP5Bb/versions/wN1MEhme/vanilla-permissions-0.2
 ##################
 
 # Blue Map
-https://cdn.modrinth.com/data/swbUV1cr/versions/e6RaDudD/bluemap-5.10-fabric.jar
+https://cdn.modrinth.com/data/swbUV1cr/versions/plVwynim/bluemap-5.11-fabric.jar
 
 # Distant Horizons
 https://cdn.modrinth.com/data/uCdwusMi/versions/9yaYzpcr/DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar
